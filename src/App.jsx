@@ -39,7 +39,7 @@ const App = () => {
     
     const link = document.createElement('a')
 
-    link.href = `https://wa.me/79994921293?text=${encodeURIComponent(message)}`;
+    link.href = `https://wa.me/79627721490?text=${encodeURIComponent(message)}`;
     link.target = '_blank';
     link.click()
     
