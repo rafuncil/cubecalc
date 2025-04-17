@@ -1,0 +1,32 @@
+.wrapper {
+	overflow-x: hidden;
+	min-width: $min-width;
+	margin: 0 auto;
+}
+
+.container {
+	width: calc(100% - 16px);
+	margin: 0 auto;
+	max-width: $desktop;
+
+	// @media(max-width: $max-width) {
+	// 	max-width: $desktop;
+	// }
+
+	@media(max-width: $desktop) {
+		max-width: $laptop;
+	}
+
+	@media(max-width: $laptop) {
+		max-width: $tablet;
+	}
+
+	@media(max-width: $tablet) {
+		max-width: $phone;
+	}
+
+	@media(max-width: $phone) {
+		max-width: $min-width;
+	}
+
+}

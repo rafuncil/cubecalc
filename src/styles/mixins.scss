@@ -1,0 +1,14 @@
+@mixin hover {
+	&:not([disabled]):hover {
+		@content;
+	}
+}
+
+@mixin square($size, $radius: 0) {
+	width: $size;
+	min-width: $size;
+	max-width: $size;
+	height: $size;
+	min-height: $size;
+	max-height: $size;
+}

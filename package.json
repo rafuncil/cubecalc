@@ -1,0 +1,53 @@
+{
+  "name": "vite-react",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open --host",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview",
+    "commit": "git add . && git commit -m",
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.5.0",
+    "classnames": "^2.3.2",
+    "framer-motion": "2.0.0",
+    "gsap": "^3.12.7",
+    "lottie-react": "^2.4.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-imask": "^7.6.1",
+    "react-input-mask": "^2.0.4",
+    "react-responsive": "^9.0.2",
+    "react-router-dom": "^6.15.0",
+    "react-select": "^5.10.1",
+    "redux": "^4.2.1",
+    "sass": "^1.66.1",
+    "swiper": "^10.2.0",
+    "three": "^0.173.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-legacy": "^4.1.1",
+    "@vitejs/plugin-react": "^4.0.3",
+    "concurrently": "^8.2.1",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^6.0.0",
+    "normalize.css": "^8.0.1",
+    "terser": "^5.19.4",
+    "vite": "^4.4.5",
+    "vite-plugin-static-copy": "^1.0.6"
+  }
+}
