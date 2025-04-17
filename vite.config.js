@@ -10,7 +10,7 @@ const _src = resolve(__dirname, './src');
 const _public = resolve(__dirname, './public');
 
 export default defineConfig({
-  base: '/vite-react/',
+  base: '/cubecalc/',
   plugins: [
     react(),
     legacy({ targets: ['IE >= 11'] }),

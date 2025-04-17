@@ -97,7 +97,7 @@ const App = () => {
   
   return (<>
     <div className='form-block'>
-      <img src="/images/Logo.PNG" alt="logo" />
+      <img src="images/Logo.PNG" alt="logo" />
       <form className="form" onSubmit={sendReq}>
         <Select onChange={selectChange} styles={customSeletcStyles}  options={selectOps} />
         <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={price ? price : ''} type='number' readOnly/>
