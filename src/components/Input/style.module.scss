@@ -3,17 +3,19 @@
   flex-direction: column;
   gap: 5px;
   input {
-    font-size: 22px;
+    font-size: 14px;
     background-color: $decor-color;
     color: $text-color;
     border: 1px solid ;
     padding: 0.4em 0.8em;
-
+    border-radius: 30px;
+	  appearance: none;
+    
   }
 }
 
 .title {
-  font-size: 20px;
+  font-size: 16px;
 
 }
 

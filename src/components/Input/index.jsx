@@ -7,13 +7,6 @@ export default ({ title = null, onValid = () => { }, name = null, min = null, ma
   const [validMessage, setValidMessage] = useState('')
   const ref = useRef(null);
 
-  const handleChange = (e) => {
-    let value = e.target.value;
-    let result = value;
-    if (type == 'number') result = value.replace(/\D/g, '');
-    setter(result);
-  }
-
   useEffect(() => {
 
     if (typeof onValid == 'function' && name) onValid(prev => {
@@ -34,7 +27,6 @@ export default ({ title = null, onValid = () => { }, name = null, min = null, ma
   const inpOps = {
     value: String(value),
     type: 'text',
-    // onChange: handleChange,
     onAccept: (value, mask) => setter(value), // здесь value уже без форматирования
     unmask: true,
     ref,
