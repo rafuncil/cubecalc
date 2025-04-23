@@ -35,11 +35,11 @@ const App = () => {
     
     const message = `Ас саламу алайкум! Хочу оформить рассрочку:
 
-      - Товар: ${productName}
-      - Первый взнос: ${payment} ₽
-      - Срок: ${time} мес.
-      - Платёж в месяц: ${monthlyPrice} ₽
-      - Общая стоимость: ${totalPrice} ₽`;
+      • Товар: ${productName}
+      • Первый взнос: ${Number(payment).toLocaleString('ru-RU') + ' ₽'} 
+      • Срок: ${time} мес.
+      • Платёж в месяц: ${monthlyPrice} 
+      • Общая стоимость: ${totalPrice}`;
     
     const link = document.createElement('a')
 
@@ -66,9 +66,9 @@ const App = () => {
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
 
    
-    setMonthlyPrice((monthlyPayment).toLocaleString('ru-RU') + '₽'); // ежемесячный платеж
-    setTotalPrice(Math.round(monthlyPayment * time + Number(payment)).toLocaleString('ru-RU') + '₽'); // общая стоимость
-    setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + '₽') // тороговая наценка
+    setMonthlyPrice((monthlyPayment).toLocaleString('ru-RU') + ' ₽'); // ежемесячный платеж
+    setTotalPrice(Math.round(monthlyPayment * time + Number(payment)).toLocaleString('ru-RU') + ' ₽'); // общая стоимость
+    setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + ' ₽') // тороговая наценка
 
   }, [time, payment, price])
   
