@@ -1,632 +1,506 @@
 [
   {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro Max",
     "model": "iPhone 16 Pro Max 1TB",
-    "price": 144900
+    "price": 137900
   },
   {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro Max",
     "model": "iPhone 16 Pro Max 512gb",
-    "price": 134900
+    "price": 127900
   },
   {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro Max",
     "model": "iPhone 16 Pro Max 256gb",
-    "price": 114900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro",
-    "model": "iPhone 16 Pro 1TB",
-    "price": 139900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro",
-    "model": "iPhone 16 Pro 512gb",
-    "price": 124900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro",
-    "model": "iPhone 16 Pro 256gb",
     "price": 104900
   },
   {
-    "category": "Техника Apple > iPhone > iPhone 16 Pro",
-    "model": "iPhone 16 Pro 128gb",
-    "price": 94900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16 Plus",
-    "model": "iPhone 16 Plus 256gb",
-    "price": 87900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16 Plus",
-    "model": "iPhone 16 Plus 128gb",
-    "price": 77900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16",
-    "model": "iPhone 16 256gb",
-    "price": 77900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16",
-    "model": "iPhone 16 128gb",
-    "price": 67900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 16E",
-    "model": "iPhone 16E 128gb",
-    "price": 54900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 15",
-    "model": "iPhone 15 Plus 128gb",
-    "price": 66900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 15",
-    "model": "iPhone 15 256gb",
-    "price": 72900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 15",
-    "model": "iPhone 15 128gb",
-    "price": 61900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 14",
-    "model": "iPhone 14 256gb",
-    "price": 61900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 14",
-    "model": "iPhone 14 128gb",
-    "price": 54900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 13",
-    "model": "iPhone 13 128gb",
-    "price": 46900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 12",
-    "model": "iPhone 12 128gb",
-    "price": 44900
-  },
-  {
-    "category": "Техника Apple > iPhone > iPhone 12",
-    "model": "iPhone 12 64gb",
-    "price": 39900
-  },
-  {
-    "category": "Техника Apple > iPad > iPad Pro",
-    "model": "iPad Pro M4 13″ 256gb Cellular",
+    "model": "iPhone 16 Pro 1TB",
     "price": 129900
   },
   {
-    "category": "Техника Apple > iPad > iPad Pro",
-    "model": "iPad Pro M4 13″ 256gb Wi-Fi",
-    "price": 109900
+    "model": "iPhone 16 Pro 512gb",
+    "price": 116900
   },
   {
-    "category": "Техника Apple > iPad > iPad Pro",
-    "model": "iPad Pro M4 11″ 512gb Wi-Fi",
-    "price": 115900
+    "model": "iPhone 16 Pro 256gb",
+    "price": 96900
   },
   {
-    "category": "Техника Apple > iPad > iPad Pro",
-    "model": "iPad Pro M4 11″ 256gb Wi-Fi",
-    "price": 89900
+    "model": "iPhone 16 Pro 128gb",
+    "price": 86900
   },
   {
-    "category": "Техника Apple > iPad > iPad Air",
-    "model": "iPad Air 6 13″ M2 128gb Wi-Fi",
-    "price": 79900
+    "model": "iPhone 16 Plus 256gb",
+    "price": 84900
   },
   {
-    "category": "Техника Apple > iPad > iPad Air",
-    "model": "iPad Air 6 11″ M2 256gb Wi-Fi",
-    "price": 66900
+    "model": "iPhone 16 Plus 128gb",
+    "price": 74900
   },
   {
-    "category": "Техника Apple > iPad > iPad Air",
-    "model": "iPad Air 7 11″ M3 128gb Wi-Fi",
+    "model": "iPhone 16 256gb",
+    "price": 74900
+  },
+  {
+    "model": "iPhone 16 128gb",
     "price": 64900
   },
   {
-    "category": "Техника Apple > iPad > iPad Air",
-    "model": "iPad Air 6 11″ M2 128gb Wi-Fi",
-    "price": 56900
-  },
-  {
-    "category": "Техника Apple > iPad > iPad 11",
-    "model": "iPad 11 256gb Wi-Fi",
+    "model": "iPhone 16E 128gb",
     "price": 52900
   },
   {
-    "category": "Техника Apple > iPad > iPad 10",
-    "model": "iPad 10 256gb Wi-Fi",
-    "price": 47900
+    "model": "iPhone 15 Plus 128gb",
+    "price": 64900
   },
   {
-    "category": "Техника Apple > iPad > iPad 10",
-    "model": "iPad 10 64gb Wi-Fi",
-    "price": 36900
+    "model": "iPhone 15 256gb",
+    "price": 68900
   },
   {
-    "category": "Техника Apple > iPad > iPad mini 7",
+    "model": "iPhone 15 128gb",
+    "price": 59900
+  },
+  {
+    "model": "iPhone 14 256gb",
+    "price": 59900
+  },
+  {
+    "model": "iPhone 14 128gb",
+    "price": 53900
+  },
+  {
+    "model": "iPhone 13 128gb",
+    "price": 44900
+  },
+  {
+    "model": "iPhone 12 64gb",
+    "price": 38900
+  },
+  {
+    "model": "iPhone 12 128gb",
+    "price": 42900
+  },
+  {
+    "model": "iMac 24′ на процессоре M4",
+    "price": 149900
+  },
+  {
+    "model": "MacBook Pro 14′ M4 Pro 24/512gb",
+    "price": 185900
+  },
+  {
+    "model": "MacBook Air 15′ M3 16/256gb",
+    "price": 119900
+  },
+  {
+    "model": "MacBook Air 15′ M3 8/256gb",
+    "price": 114900
+  },
+  {
+    "model": "MacBook Air 13.6′ M3 16/512gb",
+    "price": 114900
+  },
+  {
+    "model": "MacBook Air 13.6′ M3 16/256gb",
+    "price": 104900
+  },
+  {
+    "model": "MacBook Air 13.6′ M3 8/256gb",
+    "price": 94900
+  },
+  {
+    "model": "MacBook Air 13.6′ M2 16/256gb",
+    "price": 79900
+  },
+  {
+    "model": "MacBook Air 13.6′ M2 8/256gb",
+    "price": 74900
+  },
+  {
+    "model": "MacBook Air 13′ M1 8/256gb",
+    "price": 64900
+  },
+  {
+    "model": "Apple magic mouse 3",
+    "price": 11900
+  },
+  {
+    "model": "iPad Pro M4 13′ 256gb Cellular",
+    "price": 125900
+  },
+  {
+    "model": "iPad Pro M4 13′ 256gb Wi-Fi",
+    "price": 107900
+  },
+  {
+    "model": "iPad Pro M4 11′ 512gb Wi-Fi",
+    "price": 114900
+  },
+  {
+    "model": "iPad Pro M4 11′ 256gb Wi-Fi",
+    "price": 87900
+  },
+  {
+    "model": "iPad Air 7 11′ M3 128gb Wi-Fi",
+    "price": 59900
+  },
+  {
+    "model": "iPad Air 7 13′ M3 256gb Wi-Fi",
+    "price": 84900
+  },
+  {
+    "model": "iPad Air 6 11′ M2 256gb Wi-Fi",
+    "price": 66900
+  },
+  {
+    "model": "iPad Air 6 11′ M2 128gb Wi-Fi",
+    "price": 56900
+  },
+  {
     "model": "iPad mini 7 128gb Wi-Fi",
     "price": 49900
   },
   {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Pro 14″ M4 Pro 24/512gb",
-    "price": 185900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 15″ M3 16/256gb",
-    "price": 134900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 15″ M3 8/256gb",
-    "price": 125900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13.6″ M3 16/512gb",
-    "price": 125900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13.6″ M3 16/256gb",
-    "price": 107900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13.6″ M3 8/256gb",
-    "price": 97900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13.6″ M2 16/256gb",
-    "price": 87900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13.6″ M2 8/256gb",
-    "price": 84900
-  },
-  {
-    "category": "Техника Apple > MacBook",
-    "model": "MacBook Air 13″ M1 8/256gb",
-    "price": 67900
-  },
-  {
-    "category": "Техника Apple > iMac",
-    "model": "iMac 24″ на процессоре M4",
-    "price": 149900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch Ultra 2 49mm Black",
-    "price": 74900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch Ultra 2 49mm",
-    "price": 72900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch 10 46mm",
-    "price": 39900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch 10 42mm",
-    "price": 37900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch 9 45mm",
-    "price": 33900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch SE 44mm 2024",
-    "price": 26900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch SE 40mm 2024",
-    "price": 24900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch SE 44mm 2023",
-    "price": 24900
-  },
-  {
-    "category": "Apple Watch",
-    "model": "Apple Watch SE 44mm 2022",
-    "price": 22900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods Max 2024",
-    "price": 49900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods 4 ANC",
-    "price": 17900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods Pro 2",
-    "price": 19900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods 4",
-    "price": 13900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods 3",
-    "price": 13900
-  },
-  {
-    "category": "AirPods",
-    "model": "AirPods 2",
-    "price": 10900
-  },
-  {
-    "category": "Аксессуары",
-    "model": "Apple Magic Mouse 3",
-    "price": 11900
-  },
-  {
-    "category": "Аксессуары",
     "model": "Apple Pencil Pro",
     "price": 14900
   },
   {
-    "category": "Аксессуары",
     "model": "Apple Pencil 2",
     "price": 10900
   },
   {
-    "category": "Аксессуары",
-    "model": "Apple Magic Keyboard iPad 11″",
+    "model": "Apple Magic Keyboard iPad 11′",
     "price": 29900
   },
   {
-    "category": "Аксессуары",
-    "model": "Apple Magic Keyboard iPad 13″",
+    "model": "Apple Magic Keyboard iPad 13′",
     "price": 33900
   },
   {
-    "category": "Samsung > S-серия",
-    "model": "Samsung S25 Ultra 12/512gb",
-    "price": 104900
-  },
-  {
-    "category": "Samsung > S-серия",
-    "model": "Samsung S25 Ultra 12/256gb",
-    "price": 94900
-  },
-  {
-    "category": "Samsung > S-серия",
-    "model": "Samsung S25 Plus 12/256gb",
-    "price": 79900
-  },
-  {
-    "category": "Samsung > S-серия",
-    "model": "Samsung S25 12/256gb",
-    "price": 74900
-  },
-  {
-    "category": "Samsung > S24-серия",
-    "model": "Samsung S24 Ultra 12/512gb",
-    "price": 89900
-  },
-  {
-    "category": "Samsung > S24-серия",
-    "model": "Samsung S24 Ultra 12/256gb",
-    "price": 79900
-  },
-  {
-    "category": "Samsung > S24-серия",
-    "model": "Samsung S24 8/128gb",
-    "price": 55900
-  },
-  {
-    "category": "Samsung > S24-серия",
-    "model": "Samsung S24 FE 8/256gb",
-    "price": 45900
-  },
-  {
-    "category": "Samsung > S23",
-    "model": "Samsung S23 128gb",
+    "model": "iPad 11 2025 256gb Wi-Fi",
     "price": 49900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A56 8/256gb",
-    "price": 37900
+    "model": "iPad 10 256gb Wi-Fi",
+    "price": 45900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A56 8/128gb",
-    "price": 34900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A55 8/256gb",
-    "price": 34900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A55 8/128gb",
-    "price": 29900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A54 8/128gb",
-    "price": 24900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A36 8/256gb",
+    "model": "iPad 10 64gb Wi-Fi",
     "price": 33900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A36 8/128gb",
-    "price": 31900
+    "model": "Apple Watch Ultra 2 49mm Black",
+    "price": 68900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A35 8/256gb",
-    "price": 27900
+    "model": "Apple Watch Ultra 2 49mm",
+    "price": 67900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A35 8/128gb",
-    "price": 25900
+    "model": "Apple Watch 10 46mm",
+    "price": 34900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A25 6/128gb",
-    "price": 19900
+    "model": "Apple Watch 10 42mm",
+    "price": 33900
   },
   {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A24 4/128gb",
-    "price": 15900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A16 6/128gb",
-    "price": 15900
-  },
-  {
-    "category": "Samsung > A-серия",
-    "model": "Samsung A16 4/128gb",
-    "price": 14900
-  },
-  {
-    "category": "Техника Xiaomi > Poco",
-    "model": "Poco X7 Pro 12/512gb",
-    "price": 35900
-  },
-  {
-    "category": "Техника Xiaomi > Poco",
-    "model": "Poco X7 Pro 8/256gb",
-    "price": 31900
-  },
-  {
-    "category": "Техника Xiaomi > Poco",
-    "model": "Poco F4 6/128gb",
-    "price": 19900
-  },
-  {
-    "category": "Техника Xiaomi > Poco",
-    "model": "Poco X6 Pro 12/512gb",
+    "model": "Apple Watch 9 45mm",
     "price": 29900
   },
   {
-    "category": "Техника Xiaomi > Poco",
+    "model": "Apple Watch SE 44mm 2024",
+    "price": 24900
+  },
+  {
+    "model": "Apple Watch SE 40mm 2024",
+    "price": 22900
+  },
+  {
+    "model": "Apple Watch SE 44mm 2023",
+    "price": 22900
+  },
+  {
+    "model": "Apple Watch SE 44mm 2022",
+    "price": 20900
+  },
+  {
+    "model": "Samsung Watch 6 Classic 47mm",
+    "price": 24900
+  },
+  {
+    "model": "Samsung Watch 6 44mm",
+    "price": 17900
+  },
+  {
+    "model": "AirPods Max 2024",
+    "price": 47900
+  },
+  {
+    "model": "AirPods 4 ANC",
+    "price": 16900
+  },
+  {
+    "model": "AirPods Pro 2",
+    "price": 19900
+  },
+  {
+    "model": "AirPods 4",
+    "price": 12900
+  },
+  {
+    "model": "AirPods 3",
+    "price": 12900
+  },
+  {
+    "model": "AirPods 2",
+    "price": 9900
+  },
+  {
+    "model": "Наушники Marshall Major 5",
+    "price": 15900
+  },
+  {
+    "model": "Наушники Marshall Major 4",
+    "price": 11900
+  },
+  {
+    "model": "Samsung S25 Ultra 12/512gb",
+    "price": 99900
+  },
+  {
+    "model": "Samsung S25 Ultra 12/256gb",
+    "price": 87900
+  },
+  {
+    "model": "Samsung S25 Plus 12/256gb",
+    "price": 74900
+  },
+  {
+    "model": "Samsung S25 12/256gb",
+    "price": 66900
+  },
+  {
+    "model": "Samsung S24 Ultra 12/512gb",
+    "price": 84900
+  },
+  {
+    "model": "Samsung S24 Ultra 12/256gb",
+    "price": 76900
+  },
+  {
+    "model": "Samsung S24 8/128gb",
+    "price": 53900
+  },
+  {
+    "model": "Samsung S24 FE 8/256gb",
+    "price": 43900
+  },
+  {
+    "model": "Samsung S23 128gb",
+    "price": 46900
+  },
+  {
+    "model": "Samsung A56 8/256gb",
+    "price": 34900
+  },
+  {
+    "model": "Samsung A56 8/128gb",
+    "price": 32900
+  },
+  {
+    "model": "Samsung A55 8/256gb",
+    "price": 32900
+  },
+  {
+    "model": "Samsung A55 8/128gb",
+    "price": 27900
+  },
+  {
+    "model": "Samsung A54 8/128gb",
+    "price": 21900
+  },
+  {
+    "model": "Samsung A36 8/256gb",
+    "price": 28900
+  },
+  {
+    "model": "Samsung A36 8/128gb",
+    "price": 25900
+  },
+  {
+    "model": "Samsung A35 8/256gb",
+    "price": 25900
+  },
+  {
+    "model": "Samsung A35 8/128gb",
+    "price": 23900
+  },
+  {
+    "model": "Samsung A26 8/256gb",
+    "price": 23900
+  },
+  {
+    "model": "Samsung A25 6/128gb",
+    "price": 17900
+  },
+  {
+    "model": "Samsung A24 4/128gb",
+    "price": 14900
+  },
+  {
+    "model": "Samsung A16 6/128gb",
+    "price": 14900
+  },
+  {
+    "model": "Samsung A16 4/128gb",
+    "price": 13900
+  },
+  {
+    "model": "Samsung A06 6/128gb",
+    "price": 9900
+  },
+  {
+    "model": "Samsung A03 32gb",
+    "price": 4900
+  },
+  {
+    "model": "OnePlus Nord 2T 8/128GB",
+    "price": 19900
+  },
+  {
+    "model": "Realmi 11 8/256gb",
+    "price": 14900
+  },
+  {
+    "model": "Realmi C55 6/128gb",
+    "price": 9900
+  },
+  {
+    "model": "Realmi C21Y 64gb",
+    "price": 6900
+  },
+  {
+    "model": "Poco X7 Pro 12/512gb",
+    "price": 34900
+  },
+  {
+    "model": "Poco X7 Pro 8/256gb",
+    "price": 28900
+  },
+  {
+    "model": "Poco F4 6/128gb",
+    "price": 18900
+  },
+  {
     "model": "Poco X5 Pro 8/256gb",
     "price": 23900
   },
   {
-    "category": "Техника Xiaomi > Poco",
     "model": "Poco X5 Pro 6/128gb",
     "price": 19900
   },
   {
-    "category": "Техника Xiaomi > Poco",
     "model": "Poco X5 8/256gb",
     "price": 19900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 14",
     "model": "Redmi Note 14 Pro Plus 8/256gb",
-    "price": 34900
+    "price": 32900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 14",
     "model": "Redmi Note 14 Pro 12/512gb",
-    "price": 29900
+    "price": 28900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 14",
     "model": "Redmi Note 14 Pro 8/256gb",
-    "price": 25900
+    "price": 23900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 14",
     "model": "Redmi Note 14 8/256gb",
-    "price": 18900
+    "price": 17900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 14",
-    "model": "Redmi Note 14 8/128gb",
-    "price": 16900
-  },
-  {
-    "category": "Техника Xiaomi > Redmi Note 14",
-    "model": "Redmi Note 14 6/128gb",
+    "model": "Redmu Note 14 8/128gb",
     "price": 14900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 13",
+    "model": "Redmi Note 14 6/128gb",
+    "price": 13900
+  },
+  {
     "model": "Redmi Note 13 Pro 12/256gb",
-    "price": 24900
+    "price": 21900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 13",
     "model": "Redmi Note 13 Pro 8/256gb",
-    "price": 19900
+    "price": 18900
   },
   {
-    "category": "Техника Xiaomi > Redmi Note 12 / 11",
-    "model": "Redmi Note 12 6/128gb",
-    "price": 12900
-  },
-  {
-    "category": "Техника Xiaomi > Redmi Note 12 / 11",
     "model": "Redmi Note 11 Pro 8/128gb",
     "price": 14900
   },
   {
-    "category": "Техника Xiaomi > Redmi 14C",
     "model": "Redmi 14C 8/256gb",
     "price": 12900
   },
   {
-    "category": "Техника Xiaomi > Redmi 14C",
     "model": "Redmi 14C 4/128gb",
     "price": 9900
   },
   {
-    "category": "Техника Xiaomi > Redmi Pad",
     "model": "Планшет Redmi Pad Pro 12′ 8/256gb",
-    "price": 29900
+    "price": 27900
   },
   {
-    "category": "Техника Xiaomi > Redmi Pad",
     "model": "Планшет Redmi Pad SE 6/128gb",
-    "price": 18900
+    "price": 14900
   },
   {
-    "category": "Техника Xiaomi > Redmi Pad",
     "model": "Планшет Redmi Pad SE 8/256gb",
-    "price": 20900
+    "price": 19900
   },
   {
-    "category": "Техника Xiaomi > Redmi Pad",
     "model": "Планшет Redmi Pad SE 8.7 4/128gb",
-    "price": 15900
+    "price": 13900
   },
   {
-    "category": "Бытовая техника и электроника > Пылесосы",
-    "model": "Беспроводной пылесос Dyson Gen5 Detect Absolute (SV23)",
-    "price": 68900
-  },
-  {
-    "category": "Бытовая техника и электроника > Пылесосы",
-    "model": "Беспроводной пылесос Roborock Dyad Pro Combo",
-    "price": 44900
-  },
-  {
-    "category": "Бытовая техника и электроника > Пылесосы",
     "model": "Беспроводной пылесос Roborock Flexi Pro",
-    "price": 34900
+    "price": 35900
   },
   {
-    "category": "Бытовая техника и электроника > Пылесосы",
-    "model": "Беспроводной пылесос Roborock Flexi Lite",
-    "price": 26900
-  },
-  {
-    "category": "Бытовая техника и электроника > Пылесосы",
     "model": "Робот-пылесос Xiaomi Robot Vacuum S12",
     "price": 22900
   },
   {
-    "category": "Бытовая техника и электроника > Пылесосы",
     "model": "Робот-пылесос Xiaomi Mijia G1",
     "price": 13900
   },
   {
-    "category": "Бытовая техника и электроника > PlayStation",
+    "model": "Яндекс станция Мини с часами",
+    "price": 9490
+  },
+  {
+    "model": "Яндекс станция Лайт",
+    "price": 4900
+  },
+  {
     "model": "Sony PlayStation 5 Pro 2TB",
     "price": 79900
   },
   {
-    "category": "Бытовая техника и электроника > PlayStation",
     "model": "Sony PlayStation 5 Slim",
     "price": 53900
   },
   {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson",
-    "model": "Dyson AirStrait HT01 Blue Copper",
-    "price": 49900
+    "model": "Геймпад DualSense",
+    "price": 7900
   },
   {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson",
-    "model": "Dyson AirStrait HT01 Red Velvet Gold",
-    "price": 49900
+    "model": "Выпрямитель Dyson HT01",
+    "price": 45900
   },
   {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson",
-    "model": "Dyson AirStrait HT01 Ceramic Pink Rose Gold",
-    "price": 49900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson",
-    "model": "Dyson AirStrait HT01 Strawberry Bronze Pink",
-    "price": 49900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HSO5 Airwrap Long Nickel Copper",
+    "model": "Стайлер Dyson Complete Long",
     "price": 54900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HSO5 Airwrap Long Blue blush",
-    "price": 54900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HSO5 Airwrap Long Fuchsia Nickel",
-    "price": 54900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HSO5 Airwrap Long Onyx Gold",
-    "price": 59900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HSO5 Airwrap Long Diffuse volumise Blue Copper",
-    "price": 59900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HS08 Airwrap ID Long Vinca blue topaz",
-    "price": 59900
-  },
-  {
-    "category": "Бытовая техника и электроника > Укладка и уход Dyson > Выпрямители Dyson > Стайлеры Dyson",
-    "model": "Dyson HS08 Airwrap ID Long Jasper Plum Purple",
-    "price": 64900
   }
 ]
