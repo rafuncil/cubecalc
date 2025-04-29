@@ -17,6 +17,7 @@ const App = () => {
   const [productName, setProductName] = useState(null);
   const [payment, setPayment] = useState(null);
   const [time, setTime] = useState(6);
+  const [showInfo, setShowInfo] = useState(false);
   
   const [monthlyPrice, setMonthlyPrice] =useState('');
   const [totalPrice, setTotalPrice] =useState('');
@@ -54,6 +55,7 @@ const App = () => {
     setPayment(e.value * 0.3)
     setProductName(e.label)
     setSelectedOption(e.label)
+    setShowInfo(true); // показываем блок
   }
 
   const isOptionSelected = (option) => {
@@ -99,17 +101,22 @@ const App = () => {
     name: 'monthCount',
     min: 1,
     max: 12,
-    defaultValue: 6,
+    defaultValue: 1,
     value: time,
     onChange: e => setTime(e.target.value)
   }
   
   return (<>
     <div className='form-block'>
-      {/* <img src="images/Logo.PNG" alt="logo" /> */}
       <form className="form" onSubmit={sendReq}>
         <h1>Калькулятор рассрочки</h1>
-        <Select onChange={selectChange} styles={customSeletcStyles}  options={selectOps} isOptionSelected={isOptionSelected}/>
+        <Select 
+          onChange={selectChange} 
+          styles={customSeletcStyles}  
+          options={selectOps} 
+          isOptionSelected={isOptionSelected}
+          placeholder="— Выберите —"
+        />
         <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={price ? price : ''} type='number' readOnly/>
 
         <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * 0.3} max={Number(price)} 
@@ -117,15 +124,15 @@ const App = () => {
         />
         <input type="range" {...rangePaymentOps} />
 
-        <Input name='months' onValid={setValid} title="Срок рассрочки (мес.)" min={1} max={12}  type='number' value={time} setter={setTime} />
+        <Input name='months' onValid={setValid} title="Срок рассрочки (мес.)" min={1} max={12}  placeholder= '' type='number' value={time} setter={setTime} />
         <input type="range"  {...rangeMonthOps} />
 
-        <div className="final-info"> 
+        <div className={`final-info ${showInfo ? 'visible' : 'hidden'}`}> 
           <p>Ежемесячный платеж: <span>{monthlyPrice}</span></p>
           <p>Общая стоимость: <span>{totalPrice}</span></p>
           <p>Торговая наценка: <span>{overPrice}</span></p>
         </div>
-
+      
         <button type='submit' className='btn'>Оставить заявку
         <img src="images/WhatsApp.svg" />
         </button>
