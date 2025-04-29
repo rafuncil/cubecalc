@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import Select from 'react-select';
 import Input from './components/Input';
-import data from '&/data/products_full.json'
-import { customSeletcStyles } from '@/scripts'
+import data from '&/data/products_full.json';
+import { customSeletcStyles } from '@/scripts';
+import options from './data/react_select_options.json'
 import { label, max } from 'three/tsl';
 
 
@@ -113,7 +114,9 @@ const App = () => {
         <Select 
           onChange={selectChange} 
           styles={customSeletcStyles}  
-          options={selectOps} 
+          // options={selectOps} 
+          options={options}
+          isSearchable={false}
           isOptionSelected={isOptionSelected}
           placeholder="— Выберите —"
         />
