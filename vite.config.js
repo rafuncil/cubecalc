@@ -10,7 +10,8 @@ const _src = resolve(__dirname, './src');
 const _public = resolve(__dirname, './public');
 
 export default defineConfig({
-  base: '/cubecalc/',
+  // base: '/cubecalc/',
+  base: '/',
   plugins: [
     react(),
     legacy({ targets: ['IE >= 11'] }),

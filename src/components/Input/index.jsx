@@ -27,13 +27,19 @@ export default ({ title = null, onValid = () => { }, name = null, min = null, ma
   const inpOps = {
     value: String(value),
     type: 'text',
-    onAccept: (value, mask) => setter(value), // здесь value уже без форматирования
+    // onAccept: (value) => setter(Number(value)), 
+    onAccept: (value) => {
+      const numeric = Number(String(value).replace(/\s/g, '').replace(',', '.'));
+      console.log('[MASK] numeric value:', numeric); // ← добавим лог
+      setter(numeric);
+    },  
     unmask: true,
     ref,
     mask: Number,
     thousandsSeparator: " ",
     ...props
   }
+ 
 
   useEffect(() => {
     if (type != 'number') return;

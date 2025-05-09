@@ -6,12 +6,18 @@ import { customSeletcStyles } from '@/scripts';
 import options from './data/react_select_options.json'
 import { label, max } from 'three/tsl';
 
+const manualOption = { label: 'Другой товар', value: null };
 
+const manualOptionGroup = {
+  label: '—',
+  options: [manualOption]
+};
 
+const fullOptions = [...options, manualOptionGroup];
 
 const App = () => {
 
-  const selectOps = data.map(el => ({value: el.price, label: el.model + ` —  ${el.price.toLocaleString('ru-RU')}₽`}))
+  // const selectOps = data.map(el => ({value: el.price, label: el.model + ` —  ${el.price.toLocaleString('ru-RU')}₽`}))
   const [selectedOption, setSelectedOption] = useState(null);
 
   const [price, setPrice] = useState(null);
@@ -45,23 +51,56 @@ const App = () => {
     
     const link = document.createElement('a')
 
-    link.href = `https://wa.me/79627721490?text=${encodeURIComponent(message)}`;
+    link.href = `https://wa.me/79203100003?text=${encodeURIComponent(message)}`;
     link.target = '_blank';
     link.click()
     
   }
   
   const selectChange = (e) => {
+    if (e.value === null) {
+      setSelectedOption(manualOption);
+      setProductName(manualOption.label);
+      return;
+    }
+
     setPrice(e.value);
     setPayment(e.value * 0.3)
     setProductName(e.label)
-    setSelectedOption(e.label)
+    setSelectedOption(e)
     setShowInfo(true); // показываем блок
   }
 
   const isOptionSelected = (option) => {
     return selectedOption ? selectedOption === option.label : false
   }
+
+ 
+  useEffect(() => {
+    if (
+      price !== null && (
+        !selectedOption ||
+        (selectedOption.value !== null && Number(price) !== Number(selectedOption.value))
+      )
+    ) {
+      setSelectedOption(manualOption);
+      setProductName(manualOption.label);
+      setShowInfo(true);
+    }
+        
+  }, [price]);
+
+  useEffect(() => {
+    if (
+      selectedOption?.value === null && // выбран "Другой товар"
+      price !== null &&
+      !payment // только если взнос ещё не заполнен
+    ) {
+      setPayment(Math.round(price * 0.3 / 1000) * 1000); // округляем до 1000
+    }
+  }, [price, selectedOption]);
+    
+
   useEffect(() => {
     let rate = Number(time) <= 6 ? 0.06 : 0.07;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
@@ -114,13 +153,13 @@ const App = () => {
         <Select 
           onChange={selectChange} 
           styles={customSeletcStyles}  
-          // options={selectOps} 
-          options={options}
+          options={fullOptions}
+          value={selectedOption}
           isSearchable={false}
           isOptionSelected={isOptionSelected}
           placeholder="— Выберите —"
         />
-        <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={price ? price : ''} type='number' readOnly/>
+        <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice}/>
 
         <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * 0.3} max={Number(price)} 
           type='number' value={payment ? payment : ''} setter={setPayment} 
