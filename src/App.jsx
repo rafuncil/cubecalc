@@ -87,7 +87,16 @@ const App = () => {
       setProductName(manualOption.label);
       setShowInfo(true);
     }
-        
+    
+    if (price) {
+      const newMin = Math.round(price * 0.3 / 1000) * 1000;
+      const newMax = Math.ceil(price / 1000) * 1000;
+  
+      // если текущий payment не попадает в новый диапазон — пересчитай
+      if (payment === null || payment < newMin || payment > newMax) {
+        setPayment(newMin); // или можно: price * 0.3
+      }
+    }
   }, [price]);
 
   useEffect(() => {
