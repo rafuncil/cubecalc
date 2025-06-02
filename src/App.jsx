@@ -1,19 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import Select from 'react-select';
 import Input from './components/Input';
-import data from '&/data/products_full.json';
 import { customSeletcStyles } from '@/scripts';
-import options from './data/react_select_options.json'
-import { label, max } from 'three/tsl';
 
-const manualOption = { label: 'Другой товар', value: null };
 
-const manualOptionGroup = {
-  label: '—',
-  options: [manualOption]
-};
 
-const fullOptions = [...options, manualOptionGroup];
 
 const App = () => {
 
@@ -25,6 +16,7 @@ const App = () => {
   const [payment, setPayment] = useState(null);
   const [time, setTime] = useState(6);
   const [showInfo, setShowInfo] = useState(false);
+  const [options, setOptions] = useState([]);
   
   const [monthlyPrice, setMonthlyPrice] =useState('');
   const [totalPrice, setTotalPrice] =useState('');
@@ -32,7 +24,22 @@ const App = () => {
 
   const [valid, setValid] = useState([]);
 
-  
+  const manualOption = { label: 'Другой товар', value: null };
+
+  const manualOptionGroup = {
+    label: '—',
+    options: [manualOption]
+  };
+
+  const fullOptions = [...options, manualOptionGroup];
+
+
+  useEffect(() => {
+    fetch('https://raw.githubusercontent.com/rafuncil/cubecalc/main/public/data/products_full.json')
+    .then(response => response.json())
+    .then(data => setOptions(data))
+    .catch(error => console.error('Error:', error));
+  }, [])
 
   const sendReq = (e) => {
     e.preventDefault(); // чтобы страница не перзагружалась после каждого сабмита
@@ -97,7 +104,7 @@ const App = () => {
         setPayment(newMin); // или можно: price * 0.3
       }
     }
-  }, [price]);
+  }, [price, options]);
 
   useEffect(() => {
     if (
@@ -107,11 +114,12 @@ const App = () => {
     ) {
       setPayment(Math.round(price * 0.3 / 1000) * 1000); // округляем до 1000
     }
-  }, [price, selectedOption]);
+  }, [price, selectedOption, options]);
     
 
   useEffect(() => {
     let rate = Number(time) <= 6 ? 0.06 : 0.07;
+    // let rate = 0.05;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
     let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100) * 100; // сумма выдаваемая в кредит с наценкой 
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
@@ -121,7 +129,7 @@ const App = () => {
     setTotalPrice(Math.round(monthlyPayment * time + Number(payment)).toLocaleString('ru-RU') + ' ₽'); // общая стоимость
     setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + ' ₽') // тороговая наценка
 
-  }, [time, payment, price])
+  }, [time, payment, price, options])
   
   const rangePaymentOps = {
     step: 1000,
