@@ -3,16 +3,16 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 139 900 ₽",
-        "value": 139900
+        "label": "iPhone 16 Pro Max 1TB — 145 900 ₽",
+        "value": 145900
       },
       {
-        "label": "iPhone 16 Pro Max 512gb — 119 900 ₽",
-        "value": 119900
+        "label": "iPhone 16 Pro Max 512gb — 125 900 ₽",
+        "value": 125900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 101 900 ₽",
-        "value": 101900
+        "label": "iPhone 16 Pro Max 256gb — 106 900 ₽",
+        "value": 106900
       }
     ]
   },
@@ -20,20 +20,20 @@
     "label": "iPhone 16 Pro",
     "options": [
       {
-        "label": "iPhone 16 Pro 1TB — 124 900 ₽",
-        "value": 124900
+        "label": "iPhone 16 Pro 1TB — 129 900 ₽",
+        "value": 129900
       },
       {
-        "label": "iPhone 16 Pro 512gb — 114 900 ₽",
-        "value": 114900
+        "label": "iPhone 16 Pro 512gb — 119 900 ₽",
+        "value": 119900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 94 900 ₽",
-        "value": 94900
+        "label": "iPhone 16 Pro 256gb — 98 900 ₽",
+        "value": 98900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 84 900 ₽",
-        "value": 84900
+        "label": "iPhone 16 Pro 128gb — 88 900 ₽",
+        "value": 88900
       }
     ]
   },
@@ -80,12 +80,12 @@
     "label": "iPhone 15",
     "options": [
       {
-        "label": "iPhone 15 256gb — 65 900 ₽",
-        "value": 65900
+        "label": "iPhone 15 256gb — 68 900 ₽",
+        "value": 68900
       },
       {
-        "label": "iPhone 15 128gb — 55 900 ₽",
-        "value": 55900
+        "label": "iPhone 15 128gb — 58 900 ₽",
+        "value": 58900
       }
     ]
   },
@@ -93,12 +93,12 @@
     "label": "iPhone 14",
     "options": [
       {
-        "label": "iPhone 14 256gb — 56 900 ₽",
-        "value": 56900
+        "label": "iPhone 14 256gb — 58 900 ₽",
+        "value": 58900
       },
       {
-        "label": "iPhone 14 128gb — 46 900 ₽",
-        "value": 46900
+        "label": "iPhone 14 128gb — 48 900 ₽",
+        "value": 48900
       }
     ]
   },
@@ -106,8 +106,8 @@
     "label": "iPhone 13",
     "options": [
       {
-        "label": "iPhone 13 128gb — 41 900 ₽",
-        "value": 41900
+        "label": "iPhone 13 128gb — 43 900 ₽",
+        "value": 43900
       }
     ]
   },
@@ -115,12 +115,12 @@
     "label": "iPhone 12",
     "options": [
       {
-        "label": "iPhone 12 128gb — 38 900 ₽",
-        "value": 38900
+        "label": "iPhone 12 128gb — 39 900 ₽",
+        "value": 39900
       },
       {
-        "label": "iPhone 12 64gb — 34 900 ₽",
-        "value": 34900
+        "label": "iPhone 12 64gb — 35 900 ₽",
+        "value": 35900
       }
     ]
   },
