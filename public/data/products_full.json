@@ -7,12 +7,12 @@
         "value": 139900
       },
       {
-        "label": "iPhone 16 Pro Max 512gb — 119 900 ₽",
-        "value": 119900
+        "label": "iPhone 16 Pro Max 512gb — 121 900 ₽",
+        "value": 121900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 103 900 ₽",
-        "value": 103900
+        "label": "iPhone 16 Pro Max 256gb — 105 900 ₽",
+        "value": 105900
       }
     ]
   },
@@ -28,12 +28,12 @@
         "value": 114900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 97 900 ₽",
-        "value": 97900
+        "label": "iPhone 16 Pro 256gb — 98 900 ₽",
+        "value": 98900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 87 900 ₽",
-        "value": 87900
+        "label": "iPhone 16 Pro 128gb — 88 900 ₽",
+        "value": 88900
       }
     ]
   },
@@ -199,16 +199,12 @@
         "value": 79900
       },
       {
-        "label": "iPad Air 7 11″ M3 256gb Wi-Fi — 69 900 ₽",
-        "value": 69900
+        "label": "iPad Air 7 11″ M3 256gb Wi-Fi — 65 900 ₽",
+        "value": 65900
       },
       {
-        "label": "iPad Air 7 11″ M3 128gb Wi-Fi — 59 900 ₽",
-        "value": 59900
-      },
-      {
-        "label": "iPad Air 6 11″ M2 128gb Wi-Fi — 56 900 ₽",
-        "value": 56900
+        "label": "iPad Air 7 11″ M3 128gb Wi-Fi — 55 900 ₽",
+        "value": 55900
       }
     ]
   },
@@ -491,8 +487,8 @@
     "label": "Poco",
     "options": [
       {
-        "label": "Poco X7 Pro 12/512gb — 32 900 ₽",
-        "value": 32900
+        "label": "Poco X7 Pro 12/512gb — 31 900 ₽",
+        "value": 31900
       },
       {
         "label": "Poco X7 Pro 8/256gb — 27 900 ₽",
@@ -564,6 +560,15 @@
       {
         "label": "Redmi 14C 4/128gb — 9 900 ₽",
         "value": 9900
+      }
+    ]
+  },
+  {
+    "label": "Redmi 15C",
+    "options": [
+      {
+        "label": "Redmi 15C 8/256gb — 15 900 ₽",
+        "value": 15900
       }
     ]
   },
