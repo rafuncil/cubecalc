@@ -3,16 +3,16 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 139 900 ₽",
-        "value": 139900
+        "label": "iPhone 16 Pro Max 1TB — 141 900 ₽",
+        "value": 141900
       },
       {
-        "label": "iPhone 16 Pro Max 512gb — 121 900 ₽",
-        "value": 121900
+        "label": "iPhone 16 Pro Max 512gb — 124 900 ₽",
+        "value": 124900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 105 900 ₽",
-        "value": 105900
+        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
+        "value": 107900
       }
     ]
   },
@@ -20,20 +20,20 @@
     "label": "iPhone 16 Pro",
     "options": [
       {
-        "label": "iPhone 16 Pro 1TB — 125 900 ₽",
-        "value": 125900
+        "label": "iPhone 16 Pro 1TB — 127 900 ₽",
+        "value": 127900
       },
       {
-        "label": "iPhone 16 Pro 512gb — 114 900 ₽",
-        "value": 114900
+        "label": "iPhone 16 Pro 512gb — 119 900 ₽",
+        "value": 119900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 98 900 ₽",
-        "value": 98900
+        "label": "iPhone 16 Pro 256gb — 101 900 ₽",
+        "value": 101900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 88 900 ₽",
-        "value": 88900
+        "label": "iPhone 16 Pro 128gb — 91 900 ₽",
+        "value": 91900
       }
     ]
   },
@@ -359,7 +359,7 @@
   },
   
   {
-    "label": "S-серия",
+    "label": "S25-серия",
     "options": [
       {
         "label": "Samsung S25 Ultra 12/1Tb — 99 900 ₽",
@@ -380,6 +380,10 @@
       {
         "label": "Samsung S25 Plus 12/256gb — 68 900 ₽",
         "value": 68900
+      },
+      {
+        "label": "Samsung S25 Edge 12/256gb — 69 900 ₽",
+        "value": 69900
       },
       {
         "label": "Samsung S25 12/256gb — 59 900 ₽",
