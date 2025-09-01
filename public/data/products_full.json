@@ -3,16 +3,16 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 141 900 ₽",
-        "value": 141900
+        "label": "iPhone 16 Pro Max 1TB — 139 900 ₽",
+        "value": 139900
       },
       {
-        "label": "iPhone 16 Pro Max 512gb — 124 900 ₽",
-        "value": 124900
+        "label": "iPhone 16 Pro Max 512gb — 121 900 ₽",
+        "value": 121900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
-        "value": 107900
+        "label": "iPhone 16 Pro Max 256gb — 104 900 ₽",
+        "value": 104900
       }
     ]
   },
@@ -32,8 +32,8 @@
         "value": 101900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 91 900 ₽",
-        "value": 91900
+        "label": "iPhone 16 Pro 128gb — 89 900 ₽",
+        "value": 89900
       }
     ]
   },
@@ -41,8 +41,8 @@
     "label": "iPhone 16 Plus",
     "options": [
       {
-        "label": "iPhone 16 Plus 256gb — 83 900 ₽",
-        "value": 83900
+        "label": "iPhone 16 Plus 256gb — 81 900 ₽",
+        "value": 81900
       },
       {
         "label": "iPhone 16 Plus 128gb — 73 900 ₽",
@@ -54,12 +54,12 @@
     "label": "iPhone 16",
     "options": [
       {
-        "label": "iPhone 16 256gb — 74 900 ₽",
-        "value": 74900
+        "label": "iPhone 16 256gb — 73 900 ₽",
+        "value": 73900
       },
       {
-        "label": "iPhone 16 128gb — 64 900 ₽",
-        "value": 64900
+        "label": "iPhone 16 128gb — 63 900 ₽",
+        "value": 63900
       }
     ]
   },
@@ -256,10 +256,6 @@
         "value": 12900
       },
       {
-        "label": "Apple Pencil 2 — 10 900 ₽",
-        "value": 10900
-      },
-      {
         "label": "Apple Magic Keyboard iPad 11″ — 29 900 ₽",
         "value": 29900
       },
@@ -285,8 +281,8 @@
         "value": 33900
       },
       {
-        "label": "Apple Watch 10 42mm — 32 900 ₽",
-        "value": 32900
+        "label": "Apple Watch 10 42mm — 31 900 ₽",
+        "value": 31900
       },
       {
         "label": "Apple Watch 9 45mm — 28 900 ₽",
@@ -382,8 +378,8 @@
         "value": 68900
       },
       {
-        "label": "Samsung S25 Edge 12/256gb — 69 900 ₽",
-        "value": 69900
+        "label": "Samsung S25 Edge 12/256gb — 67 900 ₽",
+        "value": 67900
       },
       {
         "label": "Samsung S25 12/256gb — 59 900 ₽",
@@ -491,8 +487,8 @@
     "label": "Poco",
     "options": [
       {
-        "label": "Poco X7 Pro 12/512gb — 31 900 ₽",
-        "value": 31900
+        "label": "Poco X7 Pro 12/512gb — 32 900 ₽",
+        "value": 32900
       },
       {
         "label": "Poco X7 Pro 8/256gb — 27 900 ₽",
@@ -595,6 +591,10 @@
       {
         "label": "Планшет Redmi Pad Pro 12′ 8/256gb — 25 900 ₽",
         "value": 25900
+      },
+      {
+        "label": "Планшет Redmi Pad 2 8/256gb — 17 900 ₽",
+        "value": 17900
       },
       {
         "label": "Планшет Redmi Pad SE 8/256gb — 18 900 ₽",
