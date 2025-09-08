@@ -32,6 +32,7 @@ const App = () => {
   };
 
   const fullOptions = [...options, manualOptionGroup];
+  const firstPaymentRate = 0.25; // процент первоначального взноса
 
 
   useEffect(() => {
@@ -72,7 +73,7 @@ const App = () => {
     }
 
     setPrice(e.value);
-    setPayment(e.value * 0.3)
+    setPayment(e.value * firstPaymentRate)
     setProductName(e.label)
     setSelectedOption(e)
     setShowInfo(true); // показываем блок
@@ -96,7 +97,7 @@ const App = () => {
     }
     
     if (price) {
-      const newMin = Math.round(price * 0.3 / 1000) * 1000;
+      const newMin = Math.round(price * firstPaymentRate / 1000) * 1000;
       const newMax = Math.ceil(price / 1000) * 1000;
   
       // если текущий payment не попадает в новый диапазон — пересчитай
@@ -112,14 +113,14 @@ const App = () => {
       price !== null &&
       !payment // только если взнос ещё не заполнен
     ) {
-      setPayment(Math.round(price * 0.3 / 1000) * 1000); // округляем до 1000
+      setPayment(Math.round(price * firstPaymentRate / 1000) * 1000); // округляем до 1000
     }
   }, [price, selectedOption, options]);
     
 
   useEffect(() => {
-    let rate = Number(time) <= 6 ? 0.06 : 0.07;
-    // let rate = 0.05;
+    // let rate = Number(time) <= 6 ? 0.06 : 0.07;
+    let rate = 0.05;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
     let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100) * 100; // сумма выдаваемая в кредит с наценкой 
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
@@ -135,18 +136,18 @@ const App = () => {
     step: 1000,
     name: 'downPayment',
     max: Math.ceil(price/1000)*1000,
-    min: Math.round(price * 0.3/1000)*1000,
+    min: Math.round(price * firstPaymentRate /1000)*1000,
     value: payment,
   
     onChange: (e) => {
       let step = 1000;
       let value = e.target.value;
       const maxVal = price;
-      const minVal = price * 0.3
+      const minVal = price * firstPaymentRate
 
       
       if ((value - price < step) && (value - price > 0)) setPayment(maxVal)
-        else if ((value - price * 0.3 < step) && ((value - price * 0.3 < 0) || (value - price * 0.3 < step))) setPayment(minVal)
+        else if ((value - price * firstPaymentRate < step) && ((value - price * firstPaymentRate < 0) || (value - price * firstPaymentRate < step))) setPayment(minVal)
           else setPayment(value)
 
     }
@@ -178,7 +179,7 @@ const App = () => {
         />
         <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice}/>
 
-        <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * 0.3} max={Number(price)} 
+        <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * firstPaymentRate} max={Number(price)} 
           type='number' value={payment ? payment : ''} setter={setPayment} 
         />
         <input type="range" {...rangePaymentOps} />
