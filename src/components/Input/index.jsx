@@ -30,7 +30,7 @@ export default ({ title = null, onValid = () => { }, name = null, min = null, ma
     // onAccept: (value) => setter(Number(value)), 
     onAccept: (value) => {
       const numeric = Number(String(value).replace(/\s/g, '').replace(',', '.'));
-      console.log('[MASK] numeric value:', numeric); // ← добавим лог
+     // console.log('[MASK] numeric value:', numeric); // ← добавим лог
       setter(numeric);
     },  
     unmask: true,
