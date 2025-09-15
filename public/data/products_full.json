@@ -3,16 +3,16 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 147 900 ₽",
-        "value": 147900
+        "label": "iPhone 16 Pro Max 1TB — 145 900 ₽",
+        "value": 145900
       },
       {
         "label": "iPhone 16 Pro Max 512gb — 124 900 ₽",
         "value": 124900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 109 900 ₽",
-        "value": 109900
+        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
+        "value": 107900
       }
     ]
   },
@@ -32,8 +32,8 @@
         "value": 105900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 95 900 ₽",
-        "value": 95900
+        "label": "iPhone 16 Pro 128gb — 93 900 ₽",
+        "value": 93900
       }
     ]
   },
@@ -58,8 +58,8 @@
         "value": 73900
       },
       {
-        "label": "iPhone 16 128gb — 63 900 ₽",
-        "value": 63900
+        "label": "iPhone 16 128gb — 67 900 ₽",
+        "value": 67900
       }
     ]
   },
@@ -225,8 +225,8 @@
         "value": 45900
       },
       {
-        "label": "iPad 11 2025 128gb Wi-Fi — 35 900 ₽",
-        "value": 35900
+        "label": "iPad 11 2025 128gb Wi-Fi — 37 900 ₽",
+        "value": 37900
       }
 
     ]
@@ -382,8 +382,8 @@
         "value": 67900
       },
       {
-        "label": "Samsung S25 12/256gb — 59 900 ₽",
-        "value": 59900
+        "label": "Samsung S25 12/256gb — 61 900 ₽",
+        "value": 61900
       },
       {
         "label": "Samsung S25 12/128gb — 54 900 ₽",
@@ -486,6 +486,10 @@
   {
     "label": "Poco",
     "options": [
+      {
+        "label": "Poco F7 Pro 12/512gb — 45 900 ₽",
+        "value": 45900
+      },
       {
         "label": "Poco X7 Pro 12/512gb — 32 900 ₽",
         "value": 32900
@@ -653,8 +657,8 @@
         "value": 69900
       },
       {
-        "label": "Sony PlayStation 5 Slim — 51 900 ₽",
-        "value": 51900
+        "label": "Sony PlayStation 5 Slim — 54 900 ₽",
+        "value": 54900
       },
       {
         "label": "Геймпад DualSense — 7 900 ₽",
