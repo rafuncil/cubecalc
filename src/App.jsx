@@ -119,8 +119,8 @@ const App = () => {
     
 
   useEffect(() => {
-    // let rate = Number(time) <= 6 ? 0.06 : 0.07;
-    let rate = 0.05;
+    let rate = Number(time) <= 6 ? 0.06 : 0.07;
+    //let rate = 0.05;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
     let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100) * 100; // сумма выдаваемая в кредит с наценкой 
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
