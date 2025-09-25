@@ -1,5 +1,43 @@
 [
   {
+    "label": "iPhone 17 Pro Max",
+    "options": [
+      {
+        "label": "iPhone 17 Pro Max 2TB — от 244 900 ₽",
+        "value": 244900
+      },
+      {
+        "label": "iPhone 17 Pro Max 1TB — от 199 900 ₽",
+        "value": 199900
+      },
+      {
+        "label": "iPhone 17 Pro Max 512gb — от 174 900 ₽",
+        "value": 174900
+      },
+      {
+        "label": "iPhone 17 Pro Max 256gb — от 154 900 ₽",
+        "value": 154900
+      }
+    ]
+  },
+  {
+    "label": "iPhone 17 Pro ",
+    "options": [
+      {
+        "label": "iPhone 17 Pro 1TB — от 179 900 ₽",
+        "value": 179900
+      },
+      {
+        "label": "iPhone 17 Pro 512gb — от 154 900 ₽",
+        "value": 154900
+      },
+      {
+        "label": "iPhone 17 Pro 256gb — от 129 900 ₽",
+        "value": 129900
+      }
+    ]
+  },
+  {
     "label": "iPhone 16 Pro Max",
     "options": [
       {
@@ -139,6 +177,10 @@
       {
         "label": "MacBook Pro 14″ M4 Pro 24/512gb — 164 900 ₽",
         "value": 164900
+      },
+      {
+        "label": "MacBook Air 15″ M4 16/512gb — 119 900 ₽",
+        "value": 119900
       },
       {
         "label": "MacBook Air 13.6″ M4 16/256gb — 89 900 ₽",
@@ -388,24 +430,6 @@
       {
         "label": "Samsung S25 12/128gb — 54 900 ₽",
         "value": 54900
-      }
-    ]
-  },
-  {
-    "label": "S24-серия",
-    "options": [
-      {
-        "label": "Samsung S24 FE 8/256gb — 41 900 ₽",
-        "value": 41900
-      }
-    ]
-  },
-  {
-    "label": "S23",
-    "options": [
-      {
-        "label": "Samsung S23 128gb — 39 900 ₽",
-        "value": 39900
       }
     ]
   },
