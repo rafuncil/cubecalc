@@ -11,12 +11,12 @@
         "value": 199900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb — от 189 900 ₽",
-        "value": 189900
+        "label": "iPhone 17 Pro Max 512gb — от 174 900 ₽",
+        "value": 174900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb — от 179 900 ₽",
-        "value": 179900
+        "label": "iPhone 17 Pro Max 256gb — от 159 900 ₽",
+        "value": 159900
       }
     ]
   },
@@ -32,8 +32,17 @@
         "value": 154900
       },
       {
-        "label": "iPhone 17 Pro 256gb — от 129 900 ₽",
-        "value": 129900
+        "label": "iPhone 17 Pro 256gb — от 134 900 ₽",
+        "value": 134900
+      }
+    ]
+  },
+  {
+    "label": "iPhone Air ",
+    "options": [
+      {
+        "label": "iPhone Air 256gb — от 106 900 ₽",
+        "value": 106900
       }
     ]
   },
@@ -49,8 +58,8 @@
         "value": 124900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
-        "value": 107900
+        "label": "iPhone 16 Pro Max 256gb — 109 900 ₽",
+        "value": 109900
       }
     ]
   },
@@ -66,8 +75,8 @@
         "value": 121900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 105 900 ₽",
-        "value": 105900
+        "label": "iPhone 16 Pro 256gb — 104 900 ₽",
+        "value": 104900
       },
       {
         "label": "iPhone 16 Pro 128gb — 93 900 ₽",
@@ -122,8 +131,8 @@
         "value": 67900
       },
       {
-        "label": "iPhone 15 128gb — 57 900 ₽",
-        "value": 57900
+        "label": "iPhone 15 128gb — 54 900 ₽",
+        "value": 54900
       }
     ]
   },
@@ -155,10 +164,6 @@
       {
         "label": "iPhone 12 128gb — 39 900 ₽",
         "value": 39900
-      },
-      {
-        "label": "iPhone 12 64gb — 35 900 ₽",
-        "value": 35900
       }
     ]
   },
@@ -325,10 +330,6 @@
       {
         "label": "Apple Watch 10 42mm — 31 900 ₽",
         "value": 31900
-      },
-      {
-        "label": "Apple Watch 9 45mm — 28 900 ₽",
-        "value": 28900
       },
       {
         "label": "Apple Watch SE 44mm 2024 — 22 900 ₽",
@@ -584,10 +585,6 @@
       {
         "label": "Redmi 14C 8/256gb — 12 900 ₽",
         "value": 12900
-      },
-      {
-        "label": "Redmi 14C 4/128gb — 9 900 ₽",
-        "value": 9900
       }
     ]
   },
