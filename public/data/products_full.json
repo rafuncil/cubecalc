@@ -7,12 +7,12 @@
         "value": 244900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB — от 199 900 ₽",
-        "value": 199900
+        "label": "iPhone 17 Pro Max 1TB — от 214 900 ₽",
+        "value": 214900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb — от 174 900 ₽",
-        "value": 174900
+        "label": "iPhone 17 Pro Max 512gb — от 164 900 ₽",
+        "value": 164900
       },
       {
         "label": "iPhone 17 Pro Max 256gb — от 159 900 ₽",
@@ -24,12 +24,12 @@
     "label": "iPhone 17 Pro ",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB — от 179 900 ₽",
-        "value": 179900
+        "label": "iPhone 17 Pro 1TB — от 189 900 ₽",
+        "value": 189900
       },
       {
-        "label": "iPhone 17 Pro 512gb — от 154 900 ₽",
-        "value": 154900
+        "label": "iPhone 17 Pro 512gb — от 164 900 ₽",
+        "value": 164900
       },
       {
         "label": "iPhone 17 Pro 256gb — от 134 900 ₽",
@@ -41,8 +41,8 @@
     "label": "iPhone Air ",
     "options": [
       {
-        "label": "iPhone Air 256gb — от 106 900 ₽",
-        "value": 106900
+        "label": "iPhone Air 256gb — от 99 900 ₽",
+        "value": 99900
       }
     ]
   },
@@ -58,8 +58,8 @@
         "value": 124900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 109 900 ₽",
-        "value": 109900
+        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
+        "value": 107900
       }
     ]
   },
@@ -75,8 +75,8 @@
         "value": 121900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 104 900 ₽",
-        "value": 104900
+        "label": "iPhone 16 Pro 256gb — 101 900 ₽",
+        "value": 101900
       },
       {
         "label": "iPhone 16 Pro 128gb — 93 900 ₽",
@@ -431,6 +431,10 @@
       {
         "label": "Samsung S25 12/128gb — 54 900 ₽",
         "value": 54900
+      },
+      {
+        "label": "Samsung S25FE 8/256gb — 53 900 ₽",
+        "value": 53900
       }
     ]
   },
@@ -580,15 +584,6 @@
     ]
   },
   {
-    "label": "Redmi 14C",
-    "options": [
-      {
-        "label": "Redmi 14C 8/256gb — 12 900 ₽",
-        "value": 12900
-      }
-    ]
-  },
-  {
     "label": "Redmi 15C",
     "options": [
       {
@@ -691,16 +686,16 @@
     "label": "Dyson",
     "options": [
       {
-        "label": "Выпрямитель Dyson HT01 — от 39 900 ₽",
-        "value": 39900
+        "label": "Выпрямитель Dyson HT01 — от 34 900 ₽",
+        "value": 34900
       },
       {
-        "label": "Стайлер Dyson Complete Long — от 49 900 ₽",
-        "value": 49900
+        "label": "Стайлер Dyson Complete Long — от 45 900 ₽",
+        "value": 45900
       },
       {
-        "label": "Фен Dyson HD16 — 35 900 ₽",
-        "value": 35900
+        "label": "Фен Dyson HD16 — 31 900 ₽",
+        "value": 31900
       }
     ]
   }
