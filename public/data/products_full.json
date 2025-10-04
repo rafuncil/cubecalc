@@ -7,16 +7,16 @@
         "value": 244900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB — от 214 900 ₽",
+        "label": "iPhone 17 Pro Max 1TB sim — от 214 900 ₽",
         "value": 214900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb — от 164 900 ₽",
-        "value": 164900
+        "label": "iPhone 17 Pro Max 512gb sim — от 171 900 ₽",
+        "value": 171900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb — от 159 900 ₽",
-        "value": 159900
+        "label": "iPhone 17 Pro Max 256gb sim — от 151 900 ₽",
+        "value": 151900
       }
     ]
   },
@@ -24,16 +24,16 @@
     "label": "iPhone 17 Pro ",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB — от 189 900 ₽",
-        "value": 189900
+        "label": "iPhone 17 Pro 1TB sim — от 214 900 ₽",
+        "value": 214900
       },
       {
-        "label": "iPhone 17 Pro 512gb — от 164 900 ₽",
-        "value": 164900
+        "label": "iPhone 17 Pro 512gb sim — от 147 900 ₽",
+        "value": 147900
       },
       {
-        "label": "iPhone 17 Pro 256gb — от 134 900 ₽",
-        "value": 134900
+        "label": "iPhone 17 Pro 256gb sim — от 129 900 ₽",
+        "value": 129900
       }
     ]
   },
@@ -41,8 +41,8 @@
     "label": "iPhone Air ",
     "options": [
       {
-        "label": "iPhone Air 256gb — от 99 900 ₽",
-        "value": 99900
+        "label": "iPhone Air 256gb — от 89 900 ₽",
+        "value": 89900
       }
     ]
   },
@@ -50,16 +50,16 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 145 900 ₽",
-        "value": 145900
+        "label": "iPhone 16 Pro Max 1TB — 139 900 ₽",
+        "value": 139900
       },
       {
         "label": "iPhone 16 Pro Max 512gb — 124 900 ₽",
         "value": 124900
       },
       {
-        "label": "iPhone 16 Pro Max 256gb — 107 900 ₽",
-        "value": 107900
+        "label": "iPhone 16 Pro Max 256gb — 103 900 ₽",
+        "value": 103900
       }
     ]
   },
@@ -67,20 +67,20 @@
     "label": "iPhone 16 Pro",
     "options": [
       {
-        "label": "iPhone 16 Pro 1TB — 134 900 ₽",
-        "value": 134900
+        "label": "iPhone 16 Pro 1TB — 131 900 ₽",
+        "value": 131900
       },
       {
         "label": "iPhone 16 Pro 512gb — 121 900 ₽",
         "value": 121900
       },
       {
-        "label": "iPhone 16 Pro 256gb — 101 900 ₽",
-        "value": 101900
+        "label": "iPhone 16 Pro 256gb — 99 900 ₽",
+        "value": 99900
       },
       {
-        "label": "iPhone 16 Pro 128gb — 93 900 ₽",
-        "value": 93900
+        "label": "iPhone 16 Pro 128gb — 89 900 ₽",
+        "value": 89900
       }
     ]
   },
@@ -105,8 +105,8 @@
         "value": 73900
       },
       {
-        "label": "iPhone 16 128gb — 67 900 ₽",
-        "value": 67900
+        "label": "iPhone 16 128gb — 59 900 ₽",
+        "value": 59900
       }
     ]
   },
@@ -118,8 +118,8 @@
         "value": 59900
       },
       {
-        "label": "iPhone 16E 128gb — 48 900 ₽",
-        "value": 48900
+        "label": "iPhone 16E 128gb — 47 900 ₽",
+        "value": 47900
       }
     ]
   },
@@ -127,12 +127,12 @@
     "label": "iPhone 15",
     "options": [
       {
-        "label": "iPhone 15 256gb — 67 900 ₽",
-        "value": 67900
+        "label": "iPhone 15 256gb — 61 900 ₽",
+        "value": 61900
       },
       {
-        "label": "iPhone 15 128gb — 54 900 ₽",
-        "value": 54900
+        "label": "iPhone 15 128gb — 51 900 ₽",
+        "value": 51900
       }
     ]
   },
@@ -188,8 +188,8 @@
         "value": 119900
       },
       {
-        "label": "MacBook Air 13.6″ M4 16/256gb — 89 900 ₽",
-        "value": 89900
+        "label": "MacBook Air 13.6″ M4 16/256gb — 87 900 ₽",
+        "value": 87900
       },
       {
         "label": "MacBook Air 13.6″ M4 16/512gb — 109 900 ₽",
@@ -210,10 +210,6 @@
       {
         "label": "MacBook Air 13.6″ M2 16/256gb — 79 900 ₽",
         "value": 79900
-      },
-      {
-        "label": "MacBook Air 13″ M1 8/256gb — 64 900 ₽",
-        "value": 64900
       }
     ]
   },
