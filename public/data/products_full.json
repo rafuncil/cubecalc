@@ -312,19 +312,6 @@
 
     ]
   },
-  // {
-  //   "label": "iPad 10",
-  //   "options": [
-  //     {
-  //       "label": "iPad 10 256gb Wi-Fi — 41 900 ₽",
-  //       "value": 41900
-  //     },
-  //     {
-  //       "label": "iPad 10 64gb Wi-Fi — 32 900 ₽",
-  //       "value": 32900
-  //     }
-  //   ]
-  // },
   {
     "label": "Аксессуары",
     "options": [
