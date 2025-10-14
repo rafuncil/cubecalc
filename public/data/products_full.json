@@ -76,10 +76,19 @@
     ]
   },
   {
-    "label": "iPhone Air ",
+    "label": "iPhone Air",
     "options": [
       {
         "label": "iPhone Air 256gb — 84 900 ₽",
+        "value": 84900
+      }
+    ]
+  },
+  {
+    "label": "iPhone 17",
+    "options": [
+      {
+        "label": "iPhone 256gb — 84 900 ₽",
         "value": 84900
       }
     ]
