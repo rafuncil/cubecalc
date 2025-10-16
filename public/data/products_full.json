@@ -3,20 +3,20 @@
     "label": "iPhone 17 Pro Max Версии sim ",
     "options": [
       {
-        "label": "iPhone 17 Pro Max 2TB sim — 234 900 ₽",
-        "value": 234900
+        "label": "iPhone 17 Pro Max 2TB sim — 229 900 ₽",
+        "value": 229900
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim — 209 900 ₽",
         "value": 209900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — 171 900 ₽",
-        "value": 171900
+        "label": "iPhone 17 Pro Max 512gb sim — 169 900 ₽",
+        "value": 169900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb sim — 143 900 ₽",
-        "value": 143900
+        "label": "iPhone 17 Pro Max 256gb sim — 141 900 ₽",
+        "value": 141900
       }
     ]
   },
@@ -28,12 +28,12 @@
         "value": 184900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — 151 900 ₽",
-        "value": 151900
+        "label": "iPhone 17 Pro 512gb sim — 143 900 ₽",
+        "value": 143900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — 125 900 ₽",
-        "value": 125900
+        "label": "iPhone 17 Pro 256gb sim — 124 900 ₽",
+        "value": 124900
       }
     ]
   },
@@ -53,8 +53,8 @@
         "value": 151900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb E-sim — 129 900 ₽",
-        "value": 129900
+        "label": "iPhone 17 Pro Max 256gb E-sim — 118 900 ₽",
+        "value": 118900
       }
     ]
   },
@@ -62,8 +62,8 @@
     "label": "iPhone 17 Pro Версии E-sim",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB E-sim — 151 900 ₽",
-        "value": 151900
+        "label": "iPhone 17 Pro 1TB E-sim — 143 900 ₽",
+        "value": 143900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim — 134 900 ₽",
