@@ -11,8 +11,8 @@
         "value": 199900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — 161 900 ₽",
-        "value": 161900
+        "label": "iPhone 17 Pro Max 512gb sim — 153 900 ₽",
+        "value": 153900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim — от 134 900 ₽",
@@ -28,12 +28,12 @@
         "value": 163900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — 143 900 ₽",
-        "value": 143900
+        "label": "iPhone 17 Pro 512gb sim — 141 900 ₽",
+        "value": 141900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — 124 900 ₽",
-        "value": 124900
+        "label": "iPhone 17 Pro 256gb sim — 119 900 ₽",
+        "value": 119900
       }
     ]
   },
@@ -41,12 +41,12 @@
     "label": "iPhone 17 Pro Max Версии E-sim",
     "options": [
       {
-        "label": "iPhone 17 Pro Max 2TB E-sim — 187 900 ₽",
-        "value": 187900
+        "label": "iPhone 17 Pro Max 2TB E-sim — 184 900 ₽",
+        "value": 184900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB E-sim — 159 900 ₽",
-        "value": 159900
+        "label": "iPhone 17 Pro Max 1TB E-sim — 154 900 ₽",
+        "value": 154900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim — 137 900 ₽",
@@ -66,12 +66,12 @@
         "value": 143900
       },
       {
-        "label": "iPhone 17 Pro 512gb E-sim — 129 900 ₽",
-        "value": 129900
+        "label": "iPhone 17 Pro 512gb E-sim — 127 900 ₽",
+        "value": 127900
       },
       {
-        "label": "iPhone 17 Pro 256gb E-sim — 114 900 ₽",
-        "value": 114900
+        "label": "iPhone 17 Pro 256gb E-sim — 109 900 ₽",
+        "value": 109900
       }
     ]
   },
@@ -79,8 +79,12 @@
     "label": "iPhone Air",
     "options": [
       {
-        "label": "iPhone Air 256gb — 79 900 ₽",
-        "value": 79900
+        "label": "iPhone Air 512gb — 97 900 ₽",
+        "value": 97900
+      },
+      {
+        "label": "iPhone Air 256gb — 77 900 ₽",
+        "value": 77900
       }
     ]
   },
@@ -88,8 +92,8 @@
     "label": "iPhone 17",
     "options": [
       {
-        "label": "iPhone 256gb — 84 900 ₽",
-        "value": 84900
+        "label": "iPhone 256gb — 83 900 ₽",
+        "value": 83900
       }
     ]
   },
@@ -97,16 +101,12 @@
     "label": "iPhone 16 Pro Max",
     "options": [
       {
-        "label": "iPhone 16 Pro Max 1TB — 139 900 ₽",
-        "value": 139900
+        "label": "iPhone 16 Pro Max 512gb — 119 900 ₽",
+        "value": 119900
       },
       {
-        "label": "iPhone 16 Pro Max 512gb — 124 900 ₽",
-        "value": 124900
-      },
-      {
-        "label": "iPhone 16 Pro Max 256gb — 103 900 ₽",
-        "value": 103900
+        "label": "iPhone 16 Pro Max 256gb — 101 900 ₽",
+        "value": 101900
       }
     ]
   },
@@ -114,20 +114,12 @@
     "label": "iPhone 16 Pro",
     "options": [
       {
-        "label": "iPhone 16 Pro 1TB — 131 900 ₽",
-        "value": 131900
+        "label": "iPhone 16 Pro 256gb — 97 900 ₽",
+        "value": 97900
       },
       {
-        "label": "iPhone 16 Pro 512gb — 121 900 ₽",
-        "value": 121900
-      },
-      {
-        "label": "iPhone 16 Pro 256gb — 99 900 ₽",
-        "value": 99900
-      },
-      {
-        "label": "iPhone 16 Pro 128gb — 89 900 ₽",
-        "value": 89900
+        "label": "iPhone 16 Pro 128gb — 87 900 ₽",
+        "value": 87900
       }
     ]
   },
@@ -174,12 +166,12 @@
     "label": "iPhone 15",
     "options": [
       {
-        "label": "iPhone 15 256gb — 61 900 ₽",
-        "value": 61900
+        "label": "iPhone 15 256gb — 59 900 ₽",
+        "value": 59900
       },
       {
-        "label": "iPhone 15 128gb — 51 900 ₽",
-        "value": 51900
+        "label": "iPhone 15 128gb — 47 900 ₽",
+        "value": 47900
       }
     ]
   },
@@ -206,15 +198,6 @@
     ]
   },
   {
-    "label": "iPhone 12",
-    "options": [
-      {
-        "label": "iPhone 12 128gb — 39 900 ₽",
-        "value": 39900
-      }
-    ]
-  },
-  {
     "label": "iMac",
     "options": [
       {
@@ -233,6 +216,10 @@
       {
         "label": "MacBook Air 15″ M4 16/512gb — 119 900 ₽",
         "value": 119900
+      },
+      {
+        "label": "MacBook Air 15″ M4 16/256gb — 104 900 ₽",
+        "value": 104900
       },
       {
         "label": "MacBook Air 13.6″ M4 16/256gb — 87 900 ₽",
@@ -255,8 +242,8 @@
         "value": 84900
       },
       {
-        "label": "MacBook Air 13.6″ M2 16/256gb — 73 900 ₽",
-        "value": 73900
+        "label": "MacBook Air 13.6″ M2 16/256gb — 72 900 ₽",
+        "value": 72900
       }
     ]
   },
@@ -289,8 +276,8 @@
         "value": 79900
       },
       {
-        "label": "iPad Air 7 11″ M3 256gb Wi-Fi — 65 900 ₽",
-        "value": 65900
+        "label": "iPad Air 7 11″ M3 256gb Wi-Fi — 63 900 ₽",
+        "value": 63900
       },
       {
         "label": "iPad Air 7 11″ M3 128gb Wi-Fi — 55 900 ₽",
@@ -346,12 +333,24 @@
     "label": "Apple Watch",
     "options": [
       {
-        "label": "Apple Watch Ultra 3 49mm — 81 900 ₽",
-        "value": 81900
+        "label": "Apple Watch Ultra 3 49mm — 79 900 ₽",
+        "value": 79900
+      },
+      {
+        "label": "Apple Watch Ultra 3 49mm Black — 77 900 ₽",
+        "value": 77900
       },
       {
         "label": "Apple Watch Ultra 2 49mm Black — 65 900 ₽",
         "value": 65900
+      },
+      {
+        "label": "Apple Watch 11 46mm — 41 900 ₽",
+        "value": 41900
+      },
+      {
+        "label": "Apple Watch 11 42mm — 39 900 ₽",
+        "value": 39900
       },
       {
         "label": "Apple Watch 10 46mm — 33 900 ₽",
@@ -398,6 +397,10 @@
       {
         "label": "AirPods 4 ANC — 16 900 ₽",
         "value": 16900
+      },
+      {
+        "label": "AirPods Pro 3 — 27 900 ₽",
+        "value": 27900
       },
       {
         "label": "AirPods Pro 2 — 18 900 ₽",
@@ -684,10 +687,6 @@
       {
         "label": "Яндекс станция Мини с часами — 9 490 ₽",
         "value": 9490
-      },
-      {
-        "label": "Яндекс станция Лайт — 4 900 ₽",
-        "value": 4900
       }
     ]
   },
