@@ -7,16 +7,16 @@
         "value": 219900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB sim — 199 900 ₽",
-        "value": 199900
+        "label": "iPhone 17 Pro Max 1TB sim — от 184 900 ₽",
+        "value": 184900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — 153 900 ₽",
-        "value": 153900
+        "label": "iPhone 17 Pro Max 512gb sim — 154 900 ₽",
+        "value": 154900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb sim — от 134 900 ₽",
-        "value": 134900
+        "label": "iPhone 17 Pro Max 256gb sim — от 129 900 ₽",
+        "value": 129900
       }
     ]
   },
@@ -24,16 +24,16 @@
     "label": "iPhone 17 Pro Версии sim",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB sim — 163 900 ₽",
-        "value": 163900
+        "label": "iPhone 17 Pro 1TB sim — 154 900 ₽",
+        "value": 154900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — 141 900 ₽",
-        "value": 141900
+        "label": "iPhone 17 Pro 512gb sim — 137 900 ₽",
+        "value": 137900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — 119 900 ₽",
-        "value": 119900
+        "label": "iPhone 17 Pro 256gb sim — 115 900 ₽",
+        "value": 115900
       }
     ]
   },
@@ -41,8 +41,8 @@
     "label": "iPhone 17 Pro Max Версии E-sim",
     "options": [
       {
-        "label": "iPhone 17 Pro Max 2TB E-sim — 184 900 ₽",
-        "value": 184900
+        "label": "iPhone 17 Pro Max 2TB E-sim — 177 900 ₽",
+        "value": 177900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim — 154 900 ₽",
@@ -70,8 +70,8 @@
         "value": 127900
       },
       {
-        "label": "iPhone 17 Pro 256gb E-sim — 109 900 ₽",
-        "value": 109900
+        "label": "iPhone 17 Pro 256gb E-sim — 104 900 ₽",
+        "value": 104900
       }
     ]
   },
@@ -92,18 +92,14 @@
     "label": "iPhone 17",
     "options": [
       {
-        "label": "iPhone 256gb — 83 900 ₽",
-        "value": 83900
+        "label": "iPhone 256gb — 85 900 ₽",
+        "value": 85900
       }
     ]
   },
   {
     "label": "iPhone 16 Pro Max",
     "options": [
-      {
-        "label": "iPhone 16 Pro Max 512gb — 119 900 ₽",
-        "value": 119900
-      },
       {
         "label": "iPhone 16 Pro Max 256gb — 101 900 ₽",
         "value": 101900
@@ -170,8 +166,8 @@
         "value": 59900
       },
       {
-        "label": "iPhone 15 128gb — 47 900 ₽",
-        "value": 47900
+        "label": "iPhone 15 128gb — 51 900 ₽",
+        "value": 51900
       }
     ]
   },
@@ -361,12 +357,12 @@
         "value": 31900
       },
       {
-        "label": "Apple Watch SE 44mm 2024 — 22 900 ₽",
-        "value": 22900
+        "label": "Apple Watch SE 44mm 2025 — 31 900 ₽",
+        "value": 31900
       },
       {
-        "label": "Apple Watch SE 40mm 2024 — 21 900 ₽",
-        "value": 21900
+        "label": "Apple Watch SE 40mm 2025 — 28 900 ₽",
+        "value": 28900
       },
       {
         "label": "Apple Watch SE 44mm 2023 — 20 900 ₽",
@@ -391,8 +387,8 @@
     "label": "AirPods",
     "options": [
       {
-        "label": "AirPods Max 2024 — 45 900 ₽",
-        "value": 45900
+        "label": "AirPods Max 2024 — 49 900 ₽",
+        "value": 49900
       },
       {
         "label": "AirPods 4 ANC — 16 900 ₽",
