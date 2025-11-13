@@ -7,16 +7,16 @@
         "value": 207900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB sim — от 173 900 ₽",
-        "value": 173900
+        "label": "iPhone 17 Pro Max 1TB sim — от 169 900 ₽",
+        "value": 169900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — от 156 900 ₽",
-        "value": 156900
+        "label": "iPhone 17 Pro Max 512gb sim — от 155 900 ₽",
+        "value": 155900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb sim — от 127 900 ₽",
-        "value": 127900
+        "label": "iPhone 17 Pro Max 256gb sim — от 129 900 ₽",
+        "value": 129900
       }
     ]
   },
@@ -28,12 +28,12 @@
         "value": 149900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — от 134 900 ₽",
-        "value": 134900
+        "label": "iPhone 17 Pro 512gb sim — от 135 900 ₽",
+        "value": 135900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — от 117 900 ₽",
-        "value": 117900
+        "label": "iPhone 17 Pro 256gb sim — от 118 900 ₽",
+        "value": 118900
       }
     ]
   },
@@ -45,16 +45,16 @@
         "value": 175900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB E-sim — от 151 900 ₽",
-        "value": 151900
+        "label": "iPhone 17 Pro Max 1TB E-sim — от 149 900 ₽",
+        "value": 149900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb E-sim — от 133 900 ₽",
-        "value": 133900
+        "label": "iPhone 17 Pro Max 512gb E-sim — от 135 900 ₽",
+        "value": 135900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb E-sim — от 116 900 ₽",
-        "value": 116900
+        "label": "iPhone 17 Pro Max 256gb E-sim — от 113 900 ₽",
+        "value": 113900
       }
     ]
   },
@@ -66,12 +66,12 @@
         "value": 141900
       },
       {
-        "label": "iPhone 17 Pro 512gb E-sim — от 124 900 ₽",
-        "value": 124900
+        "label": "iPhone 17 Pro 512gb E-sim — от 121 900 ₽",
+        "value": 121900
       },
       {
-        "label": "iPhone 17 Pro 256gb E-sim — от 105 900 ₽",
-        "value": 105900
+        "label": "iPhone 17 Pro 256gb E-sim — от 103 900 ₽",
+        "value": 103900
       }
     ]
   },
@@ -92,8 +92,12 @@
     "label": "iPhone 17",
     "options": [
       {
-        "label": "iPhone 17 256gb — 85 900 ₽",
-        "value": 85900
+        "label": "iPhone 17 256gb — 83 900 ₽",
+        "value": 83900
+      },
+      {
+        "label": "iPhone 17 256gb E-sim — 79 900 ₽",
+        "value": 79900
       }
     ]
   },
@@ -320,20 +324,16 @@
         "value": 79900
       },
       {
-        "label": "Apple Watch Ultra 3 49mm Black — 77 900 ₽",
-        "value": 77900
+        "label": "Apple Watch Ultra 3 49mm Black — 71 900 ₽",
+        "value": 71900
       },
       {
-        "label": "Apple Watch Ultra 2 49mm Black — 65 900 ₽",
-        "value": 65900
-      },
-      {
-        "label": "Apple Watch 11 46mm — 41 900 ₽",
-        "value": 41900
-      },
-      {
-        "label": "Apple Watch 11 42mm — 39 900 ₽",
+        "label": "Apple Watch 11 46mm — 39 900 ₽",
         "value": 39900
+      },
+      {
+        "label": "Apple Watch 11 42mm — 37 900 ₽",
+        "value": 37900
       },
       {
         "label": "Apple Watch 10 46mm — 33 900 ₽",
@@ -350,10 +350,6 @@
       {
         "label": "Apple Watch SE 40mm 2025 — 28 900 ₽",
         "value": 28900
-      },
-      {
-        "label": "Apple Watch SE 44mm 2023 — 20 900 ₽",
-        "value": 20900
       }
     ]
   },
@@ -382,20 +378,16 @@
         "value": 16900
       },
       {
-        "label": "AirPods Pro 3 — 26 900 ₽",
-        "value": 26900
-      },
-      {
-        "label": "AirPods Pro 2 — 18 900 ₽",
-        "value": 18900
-      },
-      {
         "label": "AirPods 4 — 12 900 ₽",
         "value": 12900
       },
       {
-        "label": "AirPods 3 — 12 900 ₽",
-        "value": 12900
+        "label": "AirPods Pro 3 — 25 900 ₽",
+        "value": 25900
+      },
+      {
+        "label": "AirPods Pro 2 — 18 900 ₽",
+        "value": 18900
       }
     ]
   },
@@ -464,10 +456,6 @@
       {
         "label": "Samsung A56 8/128gb — 27 900 ₽",
         "value": 27900
-      },
-      {
-        "label": "Samsung A55 8/128gb — 25 900 ₽",
-        "value": 25900
       },
       {
         "label": "Samsung A36 8/256gb — 25 900 ₽",
