@@ -12,6 +12,7 @@ const App = () => {
   const [selectedOption, setSelectedOption] = useState(null);
 
   const [price, setPrice] = useState(null);
+  const [paymentType, setpaymentType] = useState("nal");
   const [productName, setProductName] = useState(null);
   const [payment, setPayment] = useState(null);
   const [time, setTime] = useState(6);
@@ -115,14 +116,15 @@ const App = () => {
     ) {
       setPayment(Math.round(price * firstPaymentRate / 1000) * 1000); // округляем до 1000
     }
-  }, [price, selectedOption, options]);
+  }, [price, selectedOption, options, paymentType]);
     
 
   useEffect(() => {
+    let paymentTypeRate = paymentType == "beznal" ? 1.09 : 1;
     let rate = Number(time) <= 6 ? 0.06 : 0.07;
     // let rate = 0.05;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
-    let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100) * 100; // сумма выдаваемая в кредит с наценкой 
+    let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100 * paymentTypeRate) * 100 ; // сумма выдаваемая в кредит с наценкой 
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
 
    
@@ -130,8 +132,14 @@ const App = () => {
     setTotalPrice(Math.round(monthlyPayment * time + Number(payment)).toLocaleString('ru-RU') + ' ₽'); // общая стоимость
     setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + ' ₽') // тороговая наценка
 
-  }, [time, payment, price, options])
-  
+  }, [time, payment, price, options, paymentType])
+
+
+  const handlePaymentType = (e) => {
+    let _value = e.target.value
+    setpaymentType (_value)
+  }
+
   const rangePaymentOps = {
     step: 1000,
     name: 'downPayment',
@@ -186,6 +194,39 @@ const App = () => {
 
         <Input name='months' onValid={setValid} title="Срок рассрочки (мес.)" min={1} max={12}  placeholder= '' type='number' value={time} setter={setTime} />
         <input type="range"  {...rangeMonthOps} />
+
+        <div className="payment-section">
+          <div className="payment-label">Способ оплаты</div>
+          <div className='paymentType'>
+          
+           <input 
+            name="paymentType" 
+            type="radio" 
+            id="nal" 
+            onChange={handlePaymentType} 
+            value={"nal"} 
+              defaultChecked={paymentType == "nal"}
+            />
+            <input 
+            name="paymentType" 
+            type="radio" 
+            id="beznal" 
+            onChange={handlePaymentType} 
+            value={"beznal"} 
+              defaultChecked={paymentType == "beznal"}
+            />
+  
+            <label htmlFor="nal">
+            <span>Наличный</span>
+            </label>
+            <label htmlFor="beznal">
+            <span>Безналичный</span>
+            </label>
+  
+            <div className="slider-track"></div>
+          </div>
+        </div>
+          
 
         <div className={`final-info ${showInfo ? 'visible' : 'hidden'}`}> 
           <p>Ежемесячный платеж: <span>{monthlyPrice}</span></p>
