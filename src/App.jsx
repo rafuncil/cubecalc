@@ -55,8 +55,10 @@ const App = () => {
       • Товар: ${productName}
       • Первый взнос: ${Number(payment).toLocaleString('ru-RU') + ' ₽'} 
       • Срок: ${time} мес.
+      • Способ оплаты: ${paymentType == 'nal' ? "Наличный" : "Безналичный" }
       • Платёж в месяц: ${monthlyPrice} 
       • Общая стоимость: ${totalPrice}`;
+
     
     const link = document.createElement('a')
 
