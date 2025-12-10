@@ -7,16 +7,16 @@
         "value": 197900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB sim — от 169 900 ₽",
-        "value": 169900
+        "label": "iPhone 17 Pro Max 1TB sim — от 174 900 ₽",
+        "value": 174900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — от 143 900 ₽",
-        "value": 143900
+        "label": "iPhone 17 Pro Max 512gb sim — от 144 900 ₽",
+        "value": 144900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb sim — от 124 900 ₽",
-        "value": 124900
+        "label": "iPhone 17 Pro Max 256gb sim — от 119 900 ₽",
+        "value": 119900
       }
     ]
   },
@@ -28,12 +28,12 @@
         "value": 148900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — от 129 900 ₽",
-        "value": 129900
+        "label": "iPhone 17 Pro 512gb sim — от 134 900 ₽",
+        "value": 134900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — от 113 900 ₽",
-        "value": 113900
+        "label": "iPhone 17 Pro 256gb sim — от 111 900 ₽",
+        "value": 111900
       }
     ]
   },
@@ -53,8 +53,8 @@
         "value": 134900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb E-sim — от 107 900 ₽",
-        "value": 107900
+        "label": "iPhone 17 Pro Max 256gb E-sim — от 114 900 ₽",
+        "value": 114900
       }
     ]
   },
@@ -66,8 +66,8 @@
         "value": 139900
       },
       {
-        "label": "iPhone 17 Pro 512gb E-sim — от 117 900 ₽",
-        "value": 117900
+        "label": "iPhone 17 Pro 512gb E-sim — от 124 900 ₽",
+        "value": 124900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim — от 101 900 ₽",
@@ -229,21 +229,30 @@
     "label": "iPad Pro",
     "options": [
       {
-        "label": "iPad Pro M4 13″ 256gb Cellular — 109 900 ₽",
-        "value": 109900
+        "label": "iPad Pro 11 2025 M5 1TB Cellular — 204 900 ₽",
+        "value": 204900
       },
       {
-        "label": "iPad Pro M4 13″ 256gb Wi-Fi — 104 900 ₽",
-        "value": 104900
+        "label": "iPad Pro 11 2025 M5 1TB Wi-Fi — 199 900 ₽",
+        "value": 199900
       },
       {
-        "label": "iPad Pro M4 11″ 512gb Wi-Fi — 109 900 ₽",
-        "value": 109900
+        "label": "iPad Pro 11 2025 M5 512gb Cellular — 154 900 ₽",
+        "value": 154900
       },
       {
-        "label": "iPad Pro M4 11″ 256gb Wi-Fi — 87 900 ₽",
-        "value": 87900
+        "label": "iPad Pro 11 2025 M5 512gb Wi-Fi — 139 900 ₽",
+        "value": 139900
+      },
+      {
+        "label": "iPad Pro 11 2025 M5 256gb Cellular — 124 900 ₽",
+        "value": 124900
+      },
+      {
+        "label": "iPad Pro 11 2025 M5 256gb Wi-Fi — 99 900 ₽",
+        "value": 99900
       }
+
     ]
   },
   {
@@ -315,16 +324,16 @@
         "value": 79900
       },
       {
-        "label": "Apple Watch Ultra 3 49mm Black — 71 900 ₽",
-        "value": 71900
+        "label": "Apple Watch Ultra 3 49mm Black — 69 900 ₽",
+        "value": 696900
       },
       {
-        "label": "Apple Watch 11 46mm — 39 900 ₽",
-        "value": 39900
-      },
-      {
-        "label": "Apple Watch 11 42mm — 37 900 ₽",
+        "label": "Apple Watch 11 46mm — 37 900 ₽",
         "value": 37900
+      },
+      {
+        "label": "Apple Watch 11 42mm — 36 900 ₽",
+        "value": 36900
       },
       {
         "label": "Apple Watch 10 46mm — 33 900 ₽",
@@ -373,12 +382,12 @@
         "value": 12900
       },
       {
-        "label": "AirPods Pro 3 — 25 900 ₽",
-        "value": 25900
+        "label": "AirPods Pro 3 — 23 900 ₽",
+        "value": 23900
       },
       {
-        "label": "AirPods Pro 2 — 18 900 ₽",
-        "value": 18900
+        "label": "AirPods Pro 2 — 17 900 ₽",
+        "value": 17900
       }
     ]
   },
@@ -473,16 +482,20 @@
         "value": 17900
       },
       {
+        "label": "Samsung A17 6/128gb — 17 900 ₽",
+        "value": 17900
+      },
+      {
         "label": "Samsung A17 4/128gb — 16 900 ₽",
         "value": 16900
       },
       {
-        "label": "Samsung A16 6/128gb — 14 900 ₽",
-        "value": 14900
-      },
-      {
         "label": "Samsung A16 4/128gb — 13 900 ₽",
         "value": 13900
+      },
+      {
+        "label": "Samsung A07 6/128gb — 12 900 ₽",
+        "value": 12900
       }
     ]
   },
@@ -600,8 +613,8 @@
     "label": "Redmi Pad",
     "options": [
       {
-        "label": "Планшет Redmi Pad Pro 12′ 8/256gb — 25 900 ₽",
-        "value": 25900
+        "label": "Планшет Redmi Pad 2 Pro 8/256gb — 34 900 ₽",
+        "value": 34900
       },
       {
         "label": "Планшет Redmi Pad 2 8/256gb — 17 900 ₽",
@@ -610,10 +623,6 @@
       {
         "label": "Планшет Redmi Pad SE 8/256gb — 18 900 ₽",
         "value": 18900
-      },
-      {
-        "label": "Планшет Redmi Pad SE 6/128gb — 14 900 ₽",
-        "value": 14900
       },
       {
         "label": "Планшет Redmi Pad SE 8.7 4/128gb — 13 900 ₽",
