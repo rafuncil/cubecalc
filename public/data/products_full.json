@@ -3,20 +3,20 @@
     "label": "iPhone 17 Pro Max Версии sim ",
     "options": [
       {
-        "label": "iPhone 17 Pro Max 2TB sim — от 185 900 ₽",
-        "value": 185900
+        "label": "iPhone 17 Pro Max 2TB sim — от 179 900 ₽",
+        "value": 179900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB sim — от 165 900 ₽",
-        "value": 165900
+        "label": "iPhone 17 Pro Max 1TB sim — от 159 900 ₽",
+        "value": 159900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb sim — от 145 900 ₽",
-        "value": 145900
+        "label": "iPhone 17 Pro Max 512gb sim — от 139 900 ₽",
+        "value": 139900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb sim — от 121 900 ₽",
-        "value": 121900
+        "label": "iPhone 17 Pro Max 256gb sim — от 116 900 ₽",
+        "value": 116900
       }
     ]
   },
@@ -24,16 +24,16 @@
     "label": "iPhone 17 Pro Версии sim",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB sim — от 153 900 ₽",
-        "value": 153900
+        "label": "iPhone 17 Pro 1TB sim — от 141 900 ₽",
+        "value": 141900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim — от 131 900 ₽",
-        "value": 131900
+        "label": "iPhone 17 Pro 512gb sim — от 123 900 ₽",
+        "value": 123900
       },
       {
-        "label": "iPhone 17 Pro 256gb sim — от 111 900 ₽",
-        "value": 111900
+        "label": "iPhone 17 Pro 256gb sim — от 107 900 ₽",
+        "value": 107900
       }
     ]
   },
@@ -41,20 +41,20 @@
     "label": "iPhone 17 Pro Max Версии E-sim",
     "options": [
       {
-        "label": "iPhone 17 Pro Max 2TB E-sim — от 177 900 ₽",
-        "value": 177900
+        "label": "iPhone 17 Pro Max 2TB E-sim — от 169 900 ₽",
+        "value": 169900
       },
       {
-        "label": "iPhone 17 Pro Max 1TB E-sim — от 152 900 ₽",
-        "value": 152900
+        "label": "iPhone 17 Pro Max 1TB E-sim — от 137 900 ₽",
+        "value": 137900
       },
       {
-        "label": "iPhone 17 Pro Max 512gb E-sim — от 132 900 ₽",
-        "value": 132900
+        "label": "iPhone 17 Pro Max 512gb E-sim — от 124 900 ₽",
+        "value": 124900
       },
       {
-        "label": "iPhone 17 Pro Max 256gb E-sim — от 114 900 ₽",
-        "value": 114900
+        "label": "iPhone 17 Pro Max 256gb E-sim — от 109 900 ₽",
+        "value": 109900
       }
     ]
   },
@@ -62,16 +62,16 @@
     "label": "iPhone 17 Pro Версии E-sim",
     "options": [
       {
-        "label": "iPhone 17 Pro 1TB E-sim — от 138 900 ₽",
-        "value": 138900
+        "label": "iPhone 17 Pro 1TB E-sim — от 131 900 ₽",
+        "value": 131900
       },
       {
-        "label": "iPhone 17 Pro 512gb E-sim — от 121 900 ₽",
-        "value": 121900
+        "label": "iPhone 17 Pro 512gb E-sim — от 112 900 ₽",
+        "value": 112900
       },
       {
-        "label": "iPhone 17 Pro 256gb E-sim — от 104 900 ₽",
-        "value": 104900
+        "label": "iPhone 17 Pro 256gb E-sim — от 101 900 ₽",
+        "value": 101900
       }
     ]
   },
@@ -79,12 +79,12 @@
     "label": "iPhone Air",
     "options": [
       {
-        "label": "iPhone Air 512gb — 97 900 ₽",
-        "value": 97900
+        "label": "iPhone Air 512gb — 96 900 ₽",
+        "value": 96900
       },
       {
-        "label": "iPhone Air 256gb — 79 900 ₽",
-        "value": 79900
+        "label": "iPhone Air 256gb — 84 900 ₽",
+        "value": 84900
       }
     ]
   },
@@ -92,8 +92,8 @@
     "label": "iPhone 17",
     "options": [
       {
-        "label": "iPhone 17 256gb — 79 900 ₽",
-        "value": 79900
+        "label": "iPhone 17 256gb — 77 900 ₽",
+        "value": 77900
       },
       {
         "label": "iPhone 17 256gb E-sim — 77 900 ₽",
@@ -404,8 +404,8 @@
         "value": 89900
       },
       {
-        "label": "Samsung S25 Ultra 12/256gb — 82 900 ₽",
-        "value": 82900
+        "label": "Samsung S25 Ultra 12/256gb — 79 900 ₽",
+        "value": 79900
       },
       {
         "label": "Samsung S25 Plus 12/512gb — 72 900 ₽",
@@ -477,10 +477,6 @@
         "value": 16900
       },
       {
-        "label": "Samsung A16 4/128gb — 13 900 ₽",
-        "value": 13900
-      },
-      {
         "label": "Samsung A07 6/128gb — 12 900 ₽",
         "value": 12900
       }
@@ -492,10 +488,6 @@
       {
         "label": "Realmi 11 8/256gb — 14 900 ₽",
         "value": 14900
-      },
-      {
-        "label": "Realmi C55 6/128gb — 9 900 ₽",
-        "value": 9900
       },
       {
         "label": "Realmi C21Y 64gb — 6 900 ₽",
@@ -529,28 +521,25 @@
       {
         "label": "Poco X5 Pro 6/128gb — 19 900 ₽",
         "value": 19900
+      }
+    ]
+  },
+  {
+    "label": "Redmi Note 15",
+    "options": [
+      {
+        "label": "Redmi Note 15 Pro Plus 12/256gb — 26 900 ₽",
+        "value": 26900
       },
       {
-        "label": "Poco X5 8/256gb — 19 900 ₽",
-        "value": 19900
+        "label": "Redmi Note 15 Pro 12/512gb — 29 900 ₽",
+        "value": 29900
       }
     ]
   },
   {
     "label": "Redmi Note 14",
     "options": [
-      {
-        "label": "Redmi Note 14 Pro Plus 8/256gb — 31 900 ₽",
-        "value": 31900
-      },
-      {
-        "label": "Redmi Note 14 Pro 12/512gb — 25 900 ₽",
-        "value": 25900
-      },
-      {
-        "label": "Redmi Note 14 Pro 8/256gb — 21 900 ₽",
-        "value": 21900
-      },
       {
         "label": "Redmi Note 14 8/256gb — 16 900 ₽",
         "value": 16900
