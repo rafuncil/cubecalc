@@ -188,7 +188,7 @@ const App = () => {
           isOptionSelected={isOptionSelected}
           placeholder="— Выберите —"
         />
-        <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice}/>
+        {/* <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice}/> */}
 
         <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * firstPaymentRate} max={Number(price)} 
           type='number' value={payment ? payment : ''} setter={setPayment} 
@@ -233,6 +233,7 @@ const App = () => {
 
         <div className={`final-info ${showInfo ? 'visible' : 'hidden'}`}> 
           <p>Первоначальный взнос: <span>{overPrice}</span></p>
+          <p>Срок рассрочки: <span>{time + ' мес'}</span></p>
           <p>Ежемесячный платеж: <span>{monthlyPrice}</span></p>
           <p>Общая стоимость: <span>{totalPrice}</span></p>
         </div>
