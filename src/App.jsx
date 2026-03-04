@@ -122,9 +122,9 @@ const App = () => {
     
 
   useEffect(() => {
-    let paymentTypeRate = paymentType == "beznal" ? 1.09 : 1;
-    let rate = Number(time) <= 6 ? 0.06 : 0.07;
-    // let rate = 0.05;
+    let paymentTypeRate = paymentType == "beznal" ? 1.10 : 1;
+    // let rate = Number(time) <= 6 ? 0.06 : 0.07;
+    let rate = 0.05;
     let credit = Number(price) - Number(payment); // сумма выдаваемая в кредит без наценки
     let overCredit = Math.round(credit * (1 + rate * Number(time))/ 100 * paymentTypeRate) * 100 ; // сумма выдаваемая в кредит с наценкой 
     let monthlyPayment = Math.round(overCredit / time / 10)*10;
@@ -132,7 +132,8 @@ const App = () => {
    
     setMonthlyPrice((monthlyPayment).toLocaleString('ru-RU') + ' ₽'); // ежемесячный платеж
     setTotalPrice(Math.round(monthlyPayment * time + Number(payment)).toLocaleString('ru-RU') + ' ₽'); // общая стоимость
-    setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + ' ₽') // тороговая наценка
+    // setOverPrice(Math.round(monthlyPayment * time - credit).toLocaleString('ru-RU')  + ' ₽') // тороговая наценка
+    setOverPrice(Math.round(payment).toLocaleString('ru-RU')  + ' ₽') // засунул сюда первоначальный взнос, чтобы не переделывать final-info
 
   }, [time, payment, price, options, paymentType])
 
@@ -167,7 +168,7 @@ const App = () => {
   const rangeMonthOps = {
     step: 1,
     name: 'monthCount',
-    min: 1,
+    min: 3,
     max: 12,
     defaultValue: 1,
     value: time,
@@ -194,7 +195,7 @@ const App = () => {
         />
         <input type="range" {...rangePaymentOps} />
 
-        <Input name='months' onValid={setValid} title="Срок рассрочки (мес.)" min={1} max={12}  placeholder= '' type='number' value={time} setter={setTime} />
+        <Input name='months' onValid={setValid} title="Срок рассрочки (мес.)" min={3} max={12}  placeholder= '' type='number' value={time} setter={setTime} />
         <input type="range"  {...rangeMonthOps} />
 
         <div className="payment-section">
@@ -231,9 +232,9 @@ const App = () => {
           
 
         <div className={`final-info ${showInfo ? 'visible' : 'hidden'}`}> 
+          <p>Первоначальный взнос: <span>{overPrice}</span></p>
           <p>Ежемесячный платеж: <span>{monthlyPrice}</span></p>
           <p>Общая стоимость: <span>{totalPrice}</span></p>
-          <p>Торговая наценка: <span>{overPrice}</span></p>
         </div>
       
         <button type='submit' className='btn'>Оставить заявку
