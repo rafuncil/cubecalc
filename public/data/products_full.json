@@ -519,10 +519,6 @@
     "label": "Redmi Note 15",
     "options": [
       {
-        "label": "Redmi Note 15 Pro Plus 12/256gb",
-        "value": 26900
-      },
-      {
         "label": "Redmi Note 15 Pro 12/512gb",
         "value": 29900
       }

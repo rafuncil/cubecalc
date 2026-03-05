@@ -17,6 +17,7 @@ const App = () => {
   const [payment, setPayment] = useState(null);
   const [time, setTime] = useState(6);
   const [showInfo, setShowInfo] = useState(false);
+  const [showPriceField, setShowPriceField] = useState(false);
   const [options, setOptions] = useState([]);
   
   const [monthlyPrice, setMonthlyPrice] =useState('');
@@ -46,6 +47,11 @@ const App = () => {
   const sendReq = (e) => {
     e.preventDefault(); // чтобы страница не перзагружалась после каждого сабмита
    
+    // Для "Другого товара" проверяем наличие цены
+    if (productName === "Другой товар" && !price) {
+      return alert('Введите стоимость товара');
+    } 
+    
     if (!price || !payment || !productName || !time || valid.find(el => el.valid == false )) 
       return alert('Все поля должны быть заполнены корректно');
 
@@ -72,6 +78,7 @@ const App = () => {
     if (e.value === null) {
       setSelectedOption(manualOption);
       setProductName(manualOption.label);
+      setShowPriceField(true); //test
       return;
     }
 
@@ -80,6 +87,7 @@ const App = () => {
     setProductName(e.label)
     setSelectedOption(e)
     setShowInfo(true); // показываем блок
+    setShowPriceField(false);//
   }
 
   const isOptionSelected = (option) => {
@@ -97,6 +105,7 @@ const App = () => {
       setSelectedOption(manualOption);
       setProductName(manualOption.label);
       setShowInfo(true);
+      setShowPriceField(true); //test
     }
     
     if (price) {
@@ -117,6 +126,7 @@ const App = () => {
       !payment // только если взнос ещё не заполнен
     ) {
       setPayment(Math.round(price * firstPaymentRate / 1000) * 1000); // округляем до 1000
+      setShowInfo(true);
     }
   }, [price, selectedOption, options, paymentType]);
     
@@ -188,7 +198,18 @@ const App = () => {
           isOptionSelected={isOptionSelected}
           placeholder="— Выберите —"
         />
-        {/* <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice}/> */}
+        {/* <Input name='price' onValid={setValid} title="Стоимость товара (₽)" value={typeof price === 'number' ? price : ''} type='number'  setter={setPrice} /> */}
+        {/* Условный рендеринг поля price */}
+        {showPriceField && (
+          <Input 
+            name='price' 
+            onValid={setValid} 
+            title="Стоимость товара (₽)" 
+            value={typeof price === 'number' ? price : ''} 
+            type='number' 
+            setter={setPrice} 
+          />
+        )}
 
         <Input name='payment' onValid={setValid} title="Первоначальный взнос (₽)" min={Number(price) * firstPaymentRate} max={Number(price)} 
           type='number' value={payment ? payment : ''} setter={setPayment} 
