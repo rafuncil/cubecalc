@@ -37,6 +37,7 @@ export const customSeletcStyles = {
     boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1)',
     fontSize: '16px',
     backgroundColor: '#222',
+    overflow: 'hidden',
     zIndex: 3
   }),
   groupHeading: (provided) => ({
