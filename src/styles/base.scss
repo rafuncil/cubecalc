@@ -183,7 +183,7 @@ button {
   height: calc(100% - 8px);
   background: linear-gradient(45deg, #555555, #444444);
   border-radius: 25px;
-  transition: transform 0.4s cubic-bezier(0.34, 1.26, 0.64, 1);
+  transition: transform 0.3s cubic-bezier(0.34, 1.26, 0.64, 1);
 	// transition: transform 0.18s cubic-bezier(0, 0, 1, 1);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
   z-index: 1;
