@@ -16,7 +16,7 @@
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 129900
+        "value": 125900
       }
     ]
   },
@@ -25,15 +25,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim",
-        "value": 154900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 139900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 122900
+        "value": 116900
       }
     ]
   },
@@ -79,6 +79,10 @@
     "label": "iPhone Air",
     "options": [
       {
+        "label": "iPhone Air 512gb",
+        "value": 96900
+      },
+      {
         "label": "iPhone Air 256gb",
         "value": 84900
       }
@@ -89,11 +93,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 84900
+        "value": 81900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 76900
+        "value": 75900
       }
     ]
   },
@@ -213,7 +217,7 @@
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Wi-Fi",
-        "value": 109900
+        "value": 111900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Cellular",
@@ -221,7 +225,7 @@
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Wi-Fi",
-        "value": 89900
+        "value": 85900
       },
       {
         "label": "iPad Pro 13 2025 M5 1TB Cellular",
@@ -324,11 +328,11 @@
       },
       {
         "label": "Apple Watch 11 46mm",
-        "value": 37900
+        "value": 35900
       },
       {
         "label": "Apple Watch 11 42mm",
-        "value": 35900
+        "value": 33900
       },
       {
         "label": "Apple Watch 10 46mm",
@@ -340,7 +344,7 @@
       },
       {
         "label": "Apple Watch SE 40mm 2025",
-        "value": 27900
+        "value": 26900
       }
     ]
   },
@@ -384,15 +388,15 @@
     "options": [
       {
         "label": "Samsung S25 Ultra 12/1Tb",
-        "value": 99900
+        "value": 97900
       },
       {
         "label": "Samsung S25 Ultra 12/512gb",
-        "value": 89900
+        "value": 88900
       },
       {
         "label": "Samsung S25 Ultra 12/256gb",
-        "value": 79900
+        "value": 77900
       },
       {
         "label": "Samsung S25 Plus 12/512gb",
@@ -404,7 +408,7 @@
       },
       {
         "label": "Samsung S25 Edge 12/256gb",
-        "value": 54900
+        "value": 67900
       },
       {
         "label": "Samsung S25 12/256gb",
@@ -416,7 +420,7 @@
       },
       {
         "label": "Samsung S25FE 8/256gb",
-        "value": 47900
+        "value": 53900
       }
     ]
   },
@@ -437,10 +441,6 @@
       },
       {
         "label": "Samsung A36 8/128gb",
-        "value": 23900
-      },
-      {
-        "label": "Samsung A35 8/256gb",
         "value": 23900
       },
       {
@@ -517,6 +517,10 @@
       {
         "label": "Redmi Note 15 Pro 12/512gb",
         "value": 29900
+      },
+      {
+        "label": "Redmi Note 15 Pro 8/256gb",
+        "value": 26900
       }
     ]
   },
@@ -637,11 +641,11 @@
       },
       {
         "label": "Стайлер Dyson HS08 i.d.",
-        "value": 43900
+        "value": 45900
       },
       {
         "label": "Фен Dyson HD16",
-        "value": 33900
+        "value": 31900
       }
     ]
   }
