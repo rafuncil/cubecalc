@@ -12,11 +12,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 151900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 125900
+        "value": 124900
       }
     ]
   },
@@ -33,7 +33,7 @@
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 116900
+        "value": 121900
       }
     ]
   },
@@ -50,11 +50,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 144900
+        "value": 134900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 125900
+        "value": 119900
       }
     ]
   },
@@ -71,7 +71,7 @@
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 115900
+        "value": 112900
       }
     ]
   },
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 84900
+        "value": 81900
       }
     ]
   },
@@ -93,11 +93,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 81900
+        "value": 79900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 75900
+        "value": 72900
       }
     ]
   },
@@ -304,6 +304,10 @@
       {
         "label": "Apple Pencil Pro",
         "value": 12900
+      },
+      {
+        "label": "Apple Pencil USB-C",
+        "value": 9900
       },
       {
         "label": "Apple Magic Keyboard iPad 11″",
@@ -573,7 +577,11 @@
     "options": [
       {
         "label": "Планшет Redmi Pad 2 Pro 8/256gb",
-        "value": 34900
+        "value": 31900
+      },
+      {
+        "label": "Планшет Redmi Pad 2 Pro 6/128gb",
+        "value": 25900
       },
       {
         "label": "Планшет Redmi Pad 2 8/256gb",
