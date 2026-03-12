@@ -12,11 +12,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 147900
+        "value": 134900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 124900
+        "value": 121900
       }
     ]
   },
@@ -25,15 +25,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim",
-        "value": 147900
+        "value": 145900
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 131900
+        "value": 129900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 117900
+        "value": 111900
       }
     ]
   },
@@ -46,15 +46,15 @@
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim",
-        "value": 151900
+        "value": 154900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 134900
+        "value": 132900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 119900
+        "value": 112900
       }
     ]
   },
@@ -67,11 +67,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim",
-        "value": 124900
+        "value": 117900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 112900
+        "value": 105900
       }
     ]
   },
@@ -93,7 +93,7 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 79900
+        "value": 77900
       },
       {
         "label": "iPhone 17 256gb E-sim",
@@ -110,7 +110,7 @@
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 63900
+        "value": 62900
       }
     ]
   },
@@ -386,7 +386,19 @@
       }
     ]
   },
-  
+  {
+    "label": "S26-серия",
+    "options": [
+      {
+        "label": "Samsung S26 Ultra 12/512gb",
+        "value": 114900
+      },
+      {
+        "label": "Samsung S26 Ultra 12/256gb",
+        "value": 104900
+      }
+    ]
+  },
   {
     "label": "S25-серия",
     "options": [
