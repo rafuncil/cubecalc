@@ -12,11 +12,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 134900
+        "value": 144900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 121900
+        "value": 124900
       }
     ]
   },
@@ -29,11 +29,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 129900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 111900
+        "value": 114900
       }
     ]
   },
@@ -50,11 +50,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 132900
+        "value": 134900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 112900
+        "value": 116900
       }
     ]
   },
@@ -67,11 +67,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim",
-        "value": 117900
+        "value": 125900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 105900
+        "value": 107900
       }
     ]
   },
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 81900
+        "value": 79900
       }
     ]
   },
@@ -390,12 +390,16 @@
     "label": "S26-серия",
     "options": [
       {
+        "label": "Samsung S26 Ultra 16/1TB",
+        "value": 149900
+      },
+      {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 114900
+        "value": 107900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 104900
+        "value": 97900
       }
     ]
   },
@@ -640,7 +644,7 @@
       },
       {
         "label": "Sony PlayStation 5 Slim",
-        "value": 54900
+        "value": 53900
       },
       {
         "label": "Геймпад DualSense",
