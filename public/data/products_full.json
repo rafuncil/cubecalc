@@ -12,11 +12,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 144900
+        "value": 151900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 124900
+        "value": 126900
       }
     ]
   },
@@ -29,11 +29,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 131900
+        "value": 133900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 114900
+        "value": 118900
       }
     ]
   },
@@ -54,7 +54,7 @@
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 116900
+        "value": 118900
       }
     ]
   },
@@ -71,7 +71,7 @@
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 107900
+        "value": 109900
       }
     ]
   },
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 79900
+        "value": 80900
       }
     ]
   },
@@ -132,11 +132,11 @@
     "options": [
       {
         "label": "iPhone 15 256gb",
-        "value": 63900
+        "value": 60900
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 55900
+        "value": 53900
       }
     ]
   },
@@ -332,11 +332,11 @@
       },
       {
         "label": "Apple Watch 11 46mm",
-        "value": 35900
+        "value": 36900
       },
       {
         "label": "Apple Watch 11 42mm",
-        "value": 33900
+        "value": 34900
       },
       {
         "label": "Apple Watch 10 46mm",
@@ -395,11 +395,15 @@
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 107900
+        "value": 109900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
         "value": 97900
+      },
+      {
+        "label": "Samsung S26 12/256gb",
+        "value": 74900
       }
     ]
   },
