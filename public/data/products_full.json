@@ -8,15 +8,15 @@
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim",
-        "value": 163900
+        "value": 161900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 151900
+        "value": 139900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 126900
+        "value": 122900
       }
     ]
   },
@@ -29,11 +29,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 133900
+        "value": 134900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 118900
+        "value": 115900
       }
     ]
   },
@@ -46,15 +46,15 @@
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim",
-        "value": 154900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 134900
+        "value": 124900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 118900
+        "value": 113900
       }
     ]
   },
@@ -63,15 +63,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB E-sim",
-        "value": 139900
+        "value": 137900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim",
-        "value": 125900
+        "value": 121900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 109900
+        "value": 105900
       }
     ]
   },
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 80900
+        "value": 82900
       }
     ]
   },
@@ -93,11 +93,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 77900
+        "value": 74900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 72900
+        "value": 69900
       }
     ]
   },
@@ -106,11 +106,11 @@
     "options": [
       {
         "label": "iPhone 16 256gb",
-        "value": 69900
+        "value": 68900
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 62900
+        "value": 61900
       }
     ]
   },
@@ -132,11 +132,11 @@
     "options": [
       {
         "label": "iPhone 15 256gb",
-        "value": 60900
+        "value": 59900
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 53900
+        "value": 52900
       }
     ]
   },
@@ -149,7 +149,7 @@
       },
       {
         "label": "iPhone 14 128gb",
-        "value": 48900
+        "value": 47900
       }
     ]
   },
@@ -509,6 +509,10 @@
   {
     "label": "Poco",
     "options": [
+      {
+        "label": "Poco X8 Pro 8/256gb",
+        "value": 35900
+      },
       {
         "label": "Poco F7 Pro 12/512gb",
         "value": 45900
