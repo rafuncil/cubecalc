@@ -144,10 +144,6 @@
     "label": "iPhone 14",
     "options": [
       {
-        "label": "iPhone 14 256gb",
-        "value": 54900
-      },
-      {
         "label": "iPhone 14 128gb",
         "value": 47900
       }
