@@ -12,11 +12,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 139900
+        "value": 134900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 122900
+        "value": 118900
       }
     ]
   },
@@ -29,11 +29,11 @@
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 129900
+        "value": 125900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 109900
+        "value": 106900
       }
     ]
   },
@@ -46,11 +46,11 @@
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim",
-        "value": 141900
+        "value": 136900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 123900
+        "value": 122900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 79900
+        "value": 78900
       }
     ]
   },
@@ -188,20 +188,20 @@
         "value": 164900
       },
       {
-        "label": "MacBook Air 15″ M4 16/512gb",
-        "value": 119900
-      },
-      {
         "label": "MacBook Air 15″ M4 16/256gb",
-        "value": 104900
+        "value": 99900
       },
       {
         "label": "MacBook Air 13.6″ M4 16/256gb",
-        "value": 85900
+        "value": 79900
       },
       {
-        "label": "MacBook Air 13.6″ M4 16/512gb",
-        "value": 109900
+        "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
+        "value": 65900
+      },
+      {
+        "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
+        "value": 75900
       }
     ]
   },
@@ -337,11 +337,11 @@
       },
       {
         "label": "Apple Watch 11 46mm",
-        "value": 36900
+        "value": 34900
       },
       {
         "label": "Apple Watch 11 42mm",
-        "value": 34900
+        "value": 32900
       },
       {
         "label": "Apple Watch 10 46mm",
@@ -404,7 +404,7 @@
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 93900
+        "value": 92900
       },
       {
         "label": "Samsung S26 12/256gb",
@@ -415,7 +415,7 @@
         "value": 87900
       },
       {
-        "label": "Samsung S25 Plus 12/256gb",
+        "label": "Samsung S26 Plus 12/256gb",
         "value": 79900
       }
     ]
@@ -546,6 +546,14 @@
       {
         "label": "Redmi Note 15 Pro 8/256gb",
         "value": 26900
+      },
+      {
+        "label": "Redmi Note 15 8/256gb",
+        "value": 19900
+      },
+      {
+        "label": "Redmi Note 15 8/128gb",
+        "value": 16900
       }
     ]
   },
