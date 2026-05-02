@@ -54,7 +54,7 @@
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 112900
+        "value": 110900
       }
     ]
   },
@@ -119,7 +119,7 @@
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 61900
+        "value": 59900
       }
     ]
   },
@@ -172,7 +172,7 @@
     "options": [
       {
         "label": "iMac 24″ на процессоре M4",
-        "value": 144900
+        "value": 154900
       }
     ]
   },
@@ -189,7 +189,11 @@
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 101900
+        "value": 115900
+      },
+      {
+        "label": "MacBook Air 13″ M5 16/512gb",
+        "value": 99900
       },
       {
         "label": "MacBook Air 15″ M4 16/256gb",
@@ -201,11 +205,11 @@
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 65900
+        "value": 59900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 75900
+        "value": 69900
       }
     ]
   },
@@ -317,14 +321,6 @@
       {
         "label": "Apple Pencil USB-C",
         "value": 9900
-      },
-      {
-        "label": "Apple Magic Keyboard iPad 11″",
-        "value": 29900
-      },
-      {
-        "label": "Apple Magic Keyboard iPad 13″",
-        "value": 33900
       }
     ]
   },  
@@ -400,15 +396,15 @@
     "options": [
       {
         "label": "Samsung S26 Ultra 16/1TB",
-        "value": 129900
+        "value": 117900
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 99900
+        "value": 97900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 92900
+        "value": 89900
       },
       {
         "label": "Samsung S26 12/256gb",
@@ -429,7 +425,7 @@
     "options": [
       {
         "label": "Samsung S25 Ultra 12/512gb",
-        "value": 89900
+        "value": 84900
       },
       {
         "label": "Samsung S25 Ultra 12/256gb",
@@ -450,11 +446,11 @@
     "options": [
       {
         "label": "Samsung A57 8/256gb",
-        "value": 39900
+        "value": 37900
       },
       {
         "label": "Samsung A57 8/128gb",
-        "value": 35900
+        "value": 33900
       },
       {
         "label": "Samsung A56 8/256gb",
@@ -511,23 +507,15 @@
     "label": "Poco",
     "options": [
       {
-        "label": "Poco X8 Pro 8/256gb",
+        "label": "Poco X8 Pro 8/512gb",
         "value": 35900
       },
       {
-        "label": "Poco F7 Pro 12/512gb",
-        "value": 45900
+        "label": "Poco X8 Pro 8/256gb",
+        "value": 33900
       },
       {
-        "label": "Poco X7 Pro 12/512gb",
-        "value": 32900
-      },
-      {
-        "label": "Poco X7 Pro 8/256gb",
-        "value": 27900
-      },
-      {
-        "label": "Poco X7 12/512gb",
+        "label": "Poco Х7 12/512gb",
         "value": 26900
       },
       {
