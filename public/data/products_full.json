@@ -4,19 +4,19 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 2TB sim",
-        "value": 179900
+        "value": 181900
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim",
-        "value": 144900
+        "value": 148900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 131900
+        "value": 132900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 109900
+        "value": 112900
       }
     ]
   },
@@ -25,15 +25,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim",
-        "value": 134900
+        "value": 141900
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 119900
+        "value": 123900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 99900
+        "value": 102900
       }
     ]
   },
@@ -42,19 +42,19 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 2TB E-sim",
-        "value": 157900
+        "value": 165900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim",
-        "value": 133900
+        "value": 139900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 119900
+        "value": 121900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 104900
+        "value": 103900
       }
     ]
   },
@@ -63,15 +63,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB E-sim",
-        "value": 124900
+        "value": 132900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim",
-        "value": 112900
+        "value": 113900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 94900
+        "value": 95900
       }
     ]
   },
@@ -80,11 +80,11 @@
     "options": [
       {
         "label": "iPhone Air 512gb",
-        "value": 83900
+        "value": 77900
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 75900
+        "value": 96900
       }
     ]
   },
@@ -93,11 +93,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 69900
+        "value": 77900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 64900
+        "value": 77900
       }
     ]
   },
@@ -106,7 +106,7 @@
     "options": [
       {
         "label": "iPhone 17E 256gb",
-        "value": 55900
+        "value": 56900
       }
     ]
   },
@@ -115,11 +115,11 @@
     "options": [
       {
         "label": "iPhone 16 256gb",
-        "value": 68900
+        "value": 69900
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 58900
+        "value": 63900
       }
     ]
   },
@@ -128,7 +128,7 @@
     "options": [
       {
         "label": "iPhone 16E 256gb",
-        "value": 59900
+        "value": 55900
       },
       {
         "label": "iPhone 16E 128gb",
@@ -141,38 +141,21 @@
     "options": [
       {
         "label": "iPhone 15 256gb",
-        "value": 56900
+        "value": 63900
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 52900
+        "value": 55900
       }
     ]
   },
-  {
-    "label": "iPhone 14",
-    "options": [
-      {
-        "label": "iPhone 14 128gb",
-        "value": 47900
-      }
-    ]
-  },
-  {
-    "label": "iPhone 13",
-    "options": [
-      {
-        "label": "iPhone 13 128gb",
-        "value": 44900
-      }
-    ]
-  },
+  
   {
     "label": "iMac",
     "options": [
       {
         "label": "iMac 24″ на процессоре M4",
-        "value": 154900
+        "value": 167900
       }
     ]
   },
@@ -181,27 +164,27 @@
     "options": [
       {
         "label": "MacBook Pro 14″ M5 24/1TB",
-        "value": 163900
+        "value": 188900
       },
       {
         "label": "MacBook Pro 14″ M5 Pro 24/1TB",
-        "value": 183900
+        "value": 221900
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 108900
+        "value": 131900
       },
       {
         "label": "MacBook Air 13″ M5 16/512gb",
-        "value": 88900
+        "value": 109900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 54900
+        "value": 64900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 65900
+        "value": 72900
       }
     ]
   },
@@ -210,7 +193,7 @@
     "options": [
       {
         "label": "iPad Pro 11 2025 M5 1TB Cellular",
-        "value": 158900
+        "value": 159900
       },
       {
         "label": "iPad Pro 11 2025 M5 1TB Wi-Fi",
@@ -222,39 +205,39 @@
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Wi-Fi",
-        "value": 105900
+        "value": 115900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Cellular",
-        "value": 95900
+        "value": 110900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Wi-Fi",
-        "value": 84900
+        "value": 97900
       },
       {
         "label": "iPad Pro 13 2025 M5 1TB Cellular",
-        "value": 159900
+        "value": 161900
       },
       {
         "label": "iPad Pro 13 2025 M5 1TB Wi-Fi",
-        "value": 150900
+        "value": 155900
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Cellular",
-        "value": 129900
+        "value": 137900
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Wi-Fi",
-        "value": 125900
+        "value": 133900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Cellular",
-        "value": 107900
+        "value": 119900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Wi-Fi",
-        "value": 102900
+        "value": 113900
       }
 
     ]
@@ -264,11 +247,11 @@
     "options": [
       {
         "label": "iPad Air 11″ M4 128gb Wi-Fi",
-        "value": 48900
+        "value": 62900
       },
       {
         "label": "iPad Air 11″ M4 256gb Wi-Fi",
-        "value": 59900
+        "value": 72900
       }
     ]
   },
@@ -277,7 +260,7 @@
     "options": [
       {
         "label": "iPad mini 7 128gb Wi-Fi",
-        "value": 39900
+        "value": 49900
       }
     ]
   },
@@ -286,11 +269,11 @@
     "options": [
       {
         "label": "iPad 11 2025 256gb Wi-Fi",
-        "value": 42900
+        "value": 49900
       },
       {
         "label": "iPad 11 2025 128gb Wi-Fi",
-        "value": 32900
+        "value": 41900
       }
 
     ]
@@ -304,7 +287,7 @@
       },
       {
         "label": "Apple Pencil Pro",
-        "value": 10900
+        "value": 11900
       },
       {
         "label": "Apple Pencil USB-C",
@@ -316,20 +299,16 @@
     "label": "Apple Watch",
     "options": [
       {
-        "label": "Apple Watch Ultra 3 49mm Natural",
-        "value": 64900
-      },
-      {
         "label": "Apple Watch Ultra 3 49mm Black",
-        "value": 61900
+        "value": 65900
       },
       {
         "label": "Apple Watch 11 46mm",
-        "value": 30900
+        "value": 35900
       },
       {
         "label": "Apple Watch 11 42mm",
-        "value": 28900
+        "value": 33900
       },
       {
         "label": "Apple Watch 10 46mm",
@@ -337,11 +316,11 @@
       },
       {
         "label": "Apple Watch SE 44mm 2025",
-        "value": 20900
+        "value": 25900
       },
       {
         "label": "Apple Watch SE 40mm 2025",
-        "value": 22900
+        "value": 27900
       }
     ]
   },
@@ -349,20 +328,24 @@
     "label": "AirPods",
     "options": [
       {
+        "label": "AirPods Max 2 2026",
+        "value": 47900
+      },
+      {
         "label": "AirPods Max 2024",
-        "value": 43900
+        "value": 42900
       },
       {
         "label": "AirPods 4 ANC",
-        "value": 15900
+        "value": 16900
       },
       {
         "label": "AirPods 4",
-        "value": 10900
+        "value": 12900
       },
       {
         "label": "AirPods Pro 3",
-        "value": 18900
+        "value": 19900
       }
     ]
   },
@@ -384,51 +367,39 @@
     "options": [
       {
         "label": "Samsung S26 Ultra 16/1TB",
-        "value": 108900
+        "value": 112900
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 94900
+        "value": 95900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 86900
+        "value": 79900
+      },
+      {
+        "label": "Samsung S26 12/512gb",
+        "value": 67900
       },
       {
         "label": "Samsung S26 12/256gb",
-        "value": 58900
+        "value": 59900
+      },
+      {
+        "label": "Samsung S26 12/512gb",
+        "value": 67900
       },
       {
         "label": "Samsung S26 Plus 12/512gb",
-        "value": 82900
+        "value": 76900
       },
       {
         "label": "Samsung S26 Plus 12/256gb",
-        "value": 74900
+        "value": 68900
       }
     ]
   },
-  {
-    "label": "S25-серия",
-    "options": [
-      {
-        "label": "Samsung S25 Ultra 12/512gb",
-        "value": 82900
-      },
-      {
-        "label": "Samsung S25 Ultra 12/256gb",
-        "value": 73900
-      },
-      {
-        "label": "Samsung S25 12/256gb",
-        "value": 54900
-      },
-      {
-        "label": "Samsung S25 12/128gb",
-        "value": 49900
-      }
-    ]
-  },
+  
   {
     "label": "A-серия",
     "options": [
@@ -438,23 +409,11 @@
       },
       {
         "label": "Samsung A57 8/128gb",
-        "value": 29900
-      },
-      {
-        "label": "Samsung A56 8/256gb",
-        "value": 29900
+        "value": 31900
       },
       {
         "label": "Samsung A56 8/128gb",
         "value": 25900
-      },
-      {
-        "label": "Samsung A36 8/256gb",
-        "value": 24900
-      },
-      {
-        "label": "Samsung A36 8/128gb",
-        "value": 22900
       },
       {
         "label": "Samsung A35 8/128gb",
@@ -484,28 +443,12 @@
       {
         "label": "Realmi 11 8/256gb",
         "value": 11900
-      },
-      {
-        "label": "Realmi C21Y 64gb",
-        "value": 5900
       }
     ]
   },
   {
     "label": "Poco",
     "options": [
-      {
-        "label": "Poco X8 Pro 8/512gb",
-        "value": 29900
-      },
-      {
-        "label": "Poco X8 Pro 8/256gb",
-        "value": 27900
-      },
-      {
-        "label": "Poco Х7 12/512gb",
-        "value": 24900
-      },
       {
         "label": "Poco F4 6/128gb",
         "value": 16900
@@ -517,127 +460,29 @@
     ]
   },
   {
-    "label": "Redmi Note 15",
+    "label": "Redmi",
     "options": [
       {
-        "label": "Redmi Note 15 Pro 12/512gb",
-        "value": 23900
-      },
-      {
-        "label": "Redmi Note 15 Pro 8/256gb",
-        "value": 25900
-      },
-      {
-        "label": "Redmi Note 15 8/256gb",
-        "value": 17900
-      },
-      {
-        "label": "Redmi Note 15 8/128gb",
-        "value": 14900
-      }
-    ]
-  },
-  {
-    "label": "Redmi Note 14",
-    "options": [
-      {
-        "label": "Redmi Note 14 8/256gb",
-        "value": 16900
-      },
-      {
-        "label": "Redmi Note 14 8/128gb",
-        "value": 13900
-      }
-    ]
-  },
-  {
-    "label": "Redmi Note 11",
-    "options": [
-      {
-        "label": "Redmi Note 11 Pro 8/128gb",
-        "value": 14900
-      }
-    ]
-  },
-  {
-    "label": "Redmi 15C",
-    "options": [
-      {
-        "label": "Redmi 15C 8/256gb",
+        "label": "Redmi 15С 8/256gb",
         "value": 12900
       }
     ]
   },
-  {
-    "label": "Mi Pad",
-    "options": [
-      {
-        "label": "Планшет Mi Pad 7 8/256gb",
-        "value": 28900
-      },
-      {
-        "label": "Планшет Mi Pad 7 8/128gb",
-        "value": 26900
-      }
-    ]
-  },
-  {
-    "label": "Redmi Pad",
-    "options": [
-      {
-        "label": "Планшет Redmi Pad 2 Pro 8/256gb",
-        "value": 28900
-      },
-      {
-        "label": "Планшет Redmi Pad 2 Pro 6/128gb",
-        "value": 22900
-      },
-      {
-        "label": "Планшет Redmi Pad 2 8/256gb",
-        "value": 17900
-      },
-      {
-        "label": "Планшет Redmi Pad SE 8/256gb",
-        "value": 18900
-      },
-      {
-        "label": "Планшет Redmi Pad SE 8.7 4/128gb",
-        "value": 11900
-      }
-    ]
-  },
-  {
-    "label": "Робот-пылесос",
-    "options": [
-      {
-        "label": "Xiaomi Robot Vacuum S12",
-        "value": 14900
-      },
-      {
-        "label": "Xiaomi Mijia G1",
-        "value": 9900
-      }
-    ]
-  },
-  {
-    "label": "Яндекс станция",
-    "options": [
-      {
-        "label": "Яндекс станция Мини с часами",
-        "value": 8900
-      }
-    ]
-  },
+  
   {
     "label": "PlayStation",
     "options": [
       {
         "label": "Sony PlayStation 5 Pro 2TB",
-        "value": 78900
+        "value": 115900
       },
       {
         "label": "Sony PlayStation 5 Slim",
-        "value": 53900
+        "value": 67900
+      },
+      {
+        "label": "Sony PlayStation 5 Digital",
+        "value": 62900
       },
       {
         "label": "Геймпад DualSense",
@@ -654,15 +499,33 @@
       },
       {
         "label": "Стайлер Dyson HS09 Co-and a 2x",
-        "value": 54900
+        "value": 49900
       },
       {
         "label": "Стайлер Dyson HS08 i.d.",
-        "value": 45900
+        "value": 43900
       },
       {
         "label": "Фен Dyson HD16",
-        "value": 31900
+        "value": 35900
+      }
+    ]
+  },
+
+  {
+    "label": "Очки Ray-Ban | Meta",
+    "options": [
+      {
+        "label": "Wayfarer Gen2 с автозатемн. 50/53",
+        "value": 43900
+      },
+      {
+        "label": "Wayfarer Gen2 black 50/53",
+        "value": 39900
+      },
+      {
+        "label": "Wayfarer Gen2 прозрач. 50/53",
+        "value": 38900
       }
     ]
   }
