@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 77900
+        "value": 79900
       }
     ]
   },
@@ -93,7 +93,7 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 77900
+        "value": 79900
       },
       {
         "label": "iPhone 17 256gb E-sim",
@@ -106,7 +106,7 @@
     "options": [
       {
         "label": "iPhone 17E 256gb",
-        "value": 56900
+        "value": 59900
       }
     ]
   },
@@ -115,11 +115,11 @@
     "options": [
       {
         "label": "iPhone 16 256gb",
-        "value": 69900
+        "value": 71900
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 63900
+        "value": 65900
       }
     ]
   },
@@ -141,11 +141,11 @@
     "options": [
       {
         "label": "iPhone 15 256gb",
-        "value": 63900
+        "value": 64900
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 55900
+        "value": 57900
       }
     ]
   },
@@ -367,27 +367,23 @@
     "options": [
       {
         "label": "Samsung S26 Ultra 16/1TB",
-        "value": 112900
+        "value": 117900
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 95900
+        "value": 98900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 79900
+        "value": 81900
       },
       {
         "label": "Samsung S26 12/512gb",
-        "value": 67900
+        "value": 69900
       },
       {
         "label": "Samsung S26 12/256gb",
-        "value": 59900
-      },
-      {
-        "label": "Samsung S26 12/512gb",
-        "value": 67900
+        "value": 61900
       },
       {
         "label": "Samsung S26 Plus 12/512gb",
@@ -395,7 +391,7 @@
       },
       {
         "label": "Samsung S26 Plus 12/256gb",
-        "value": 68900
+        "value": 69900
       }
     ]
   },
@@ -478,11 +474,11 @@
       },
       {
         "label": "Sony PlayStation 5 Slim",
-        "value": 67900
+        "value": 69900
       },
       {
         "label": "Sony PlayStation 5 Digital",
-        "value": 62900
+        "value": 63900
       },
       {
         "label": "Геймпад DualSense",
