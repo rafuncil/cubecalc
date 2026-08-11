@@ -8,15 +8,15 @@
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim",
-        "value": 151900
+        "value": 153900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim",
-        "value": 134900
+        "value": 138900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim",
-        "value": 115900
+        "value": 117900
       }
     ]
   },
@@ -25,15 +25,15 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim",
-        "value": 143900
+        "value": 142900
       },
       {
         "label": "iPhone 17 Pro 512gb sim",
-        "value": 127900
+        "value": 126900
       },
       {
         "label": "iPhone 17 Pro 256gb sim",
-        "value": 104900
+        "value": 106900
       }
     ]
   },
@@ -42,19 +42,19 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 2TB E-sim",
-        "value": 165900
+        "value": 167900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim",
-        "value": 137900
+        "value": 139900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim",
-        "value": 123900
+        "value": 128900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim",
-        "value": 107900
+        "value": 108900
       }
     ]
   },
@@ -63,7 +63,7 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB E-sim",
-        "value": 132900
+        "value": 133900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim",
@@ -71,7 +71,7 @@
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim",
-        "value": 101900
+        "value": 105900
       }
     ]
   },
@@ -84,7 +84,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 79900
+        "value": 81900
       }
     ]
   },
@@ -93,11 +93,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 79900
+        "value": 81900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 77900
+        "value": 80900
       }
     ]
   },
@@ -115,11 +115,11 @@
     "options": [
       {
         "label": "iPhone 16 256gb",
-        "value": 71900
+        "value": 72900
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 65900
+        "value": 66900
       }
     ]
   },
@@ -145,7 +145,7 @@
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 57900
+        "value": 58900
       }
     ]
   },
@@ -172,19 +172,19 @@
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 131900
+        "value": 133900
       },
       {
         "label": "MacBook Air 13″ M5 16/512gb",
-        "value": 109900
+        "value": 113900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 64900
+        "value": 66900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 72900
+        "value": 74900
       }
     ]
   },
@@ -260,7 +260,7 @@
     "options": [
       {
         "label": "iPad mini 7 128gb Wi-Fi",
-        "value": 49900
+        "value": 51900
       }
     ]
   },
@@ -273,7 +273,7 @@
       },
       {
         "label": "iPad 11 2025 128gb Wi-Fi",
-        "value": 42900
+        "value": 43900
       }
 
     ]
@@ -367,23 +367,23 @@
     "options": [
       {
         "label": "Samsung S26 Ultra 16/1TB",
-        "value": 117900
+        "value": 119900
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 98900
+        "value": 99900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 81900
+        "value": 83900
       },
       {
         "label": "Samsung S26 12/512gb",
-        "value": 69900
+        "value": 73900
       },
       {
         "label": "Samsung S26 12/256gb",
-        "value": 61900
+        "value": 63900
       },
       {
         "label": "Samsung S26 Plus 12/512gb",
@@ -401,11 +401,11 @@
     "options": [
       {
         "label": "Samsung A57 8/256gb",
-        "value": 34900
+        "value": 36900
       },
       {
         "label": "Samsung A57 8/128gb",
-        "value": 31900
+        "value": 32900
       },
       {
         "label": "Samsung A56 8/128gb",
