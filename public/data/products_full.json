@@ -252,27 +252,27 @@
     "options": [
       {
         "label": "MacBook Pro 14″ M5 24/1TB",
-        "value": 188900
+        "value": 209900
       },
       {
         "label": "MacBook Pro 14″ M5 Pro 24/1TB",
-        "value": 221900
+        "value": 231900
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 133900
+        "value": 141900
       },
       {
         "label": "MacBook Air 13″ M5 16/512gb",
-        "value": 113900
+        "value": 124900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 66900
+        "value": 69900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 74900
+        "value": 79900
       }
     ]
   },
@@ -285,7 +285,7 @@
       },
       {
         "label": "iPad Pro 11 2025 M5 1TB Wi-Fi",
-        "value": 149900
+        "value": 151900
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Cellular",
@@ -313,19 +313,19 @@
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Cellular",
-        "value": 137900
+        "value": 143900
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Wi-Fi",
-        "value": 133900
+        "value": 135900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Cellular",
-        "value": 119900
+        "value": 126900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Wi-Fi",
-        "value": 113900
+        "value": 116900
       }
 
     ]
@@ -335,11 +335,11 @@
     "options": [
       {
         "label": "iPad Air 11″ M4 128gb Wi-Fi",
-        "value": 62900
+        "value": 67900
       },
       {
         "label": "iPad Air 11″ M4 256gb Wi-Fi",
-        "value": 72900
+        "value": 81900
       }
     ]
   },
@@ -361,7 +361,7 @@
       },
       {
         "label": "iPad 11 2025 128gb Wi-Fi",
-        "value": 43900
+        "value": 44900
       }
 
     ]
@@ -371,11 +371,11 @@
     "options": [
       {
         "label": "Apple Magic Mouse 3",
-        "value": 11900
+        "value": 9900
       },
       {
         "label": "Apple Pencil Pro",
-        "value": 11900
+        "value": 12900
       },
       {
         "label": "Apple Pencil USB-C",
