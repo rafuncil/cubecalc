@@ -4,11 +4,11 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 1TB sim Orange",
-        "value": 155900
+        "value": 157900
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim Blue",
-        "value": 155900
+        "value": 157900
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim Silver",
@@ -16,7 +16,7 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim Orange",
-        "value": 138900
+        "value": 141900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim Blue",
@@ -45,11 +45,11 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim Orange",
-        "value": 143900
+        "value": 142900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Blue",
-        "value": 146900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Silver",
@@ -57,15 +57,15 @@
       },
       {
         "label": "iPhone 17 Pro 512gb sim Orange",
-        "value": 126900
-      },
-      {
-        "label": "iPhone 17 Pro 512gb sim Blue",
         "value": 128900
       },
       {
-        "label": "iPhone 17 Pro 512gb sim Silver",
+        "label": "iPhone 17 Pro 512gb sim Blue",
         "value": 129900
+      },
+      {
+        "label": "iPhone 17 Pro 512gb sim Silver",
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Orange",
@@ -86,11 +86,11 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Orange",
-        "value": 145900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Blue",
-        "value": 145900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Silver",
@@ -98,27 +98,27 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Orange",
-        "value": 128900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Blue",
-        "value": 130900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Silver",
-        "value": 129900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Orange",
-        "value": 110900
+        "value": 111900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Blue",
-        "value": 110900
+        "value": 111900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Silver",
-        "value": 111900
+        "value": 112900
       }
     ]
   },
@@ -131,7 +131,7 @@
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Blue",
-        "value": 136900
+        "value": 135900
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Silver",
@@ -139,27 +139,27 @@
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Orange",
-        "value": 121900
+        "value": 122900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Blue",
-        "value": 123900
+        "value": 124900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Silver",
-        "value": 123900
+        "value": 124900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Orange",
-        "value": 103900
+        "value": 104900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Blue",
-        "value": 106900
+        "value": 107900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Silver",
-        "value": 106900
+        "value": 107900
       }
     ]
   },
@@ -172,7 +172,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 81900
+        "value": 82900
       }
     ]
   },
@@ -181,7 +181,7 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 81900
+        "value": 82900
       },
       {
         "label": "iPhone 17 256gb E-sim",
@@ -194,7 +194,7 @@
     "options": [
       {
         "label": "iPhone 17E 256gb",
-        "value": 59900
+        "value": 62900
       }
     ]
   },
@@ -203,11 +203,11 @@
     "options": [
       {
         "label": "iPhone 16 256gb",
-        "value": 72900
+        "value": 73900
       },
       {
         "label": "iPhone 16 128gb",
-        "value": 66900
+        "value": 67900
       }
     ]
   },
