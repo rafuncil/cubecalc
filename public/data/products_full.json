@@ -459,11 +459,11 @@
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 99900
+        "value": 101900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
-        "value": 83900
+        "value": 85900
       },
       {
         "label": "Samsung S26 12/512gb",
@@ -489,24 +489,17 @@
     "options": [
       {
         "label": "Samsung A57 8/256gb",
-        "value": 36900
+        "value": 37900
       },
       {
         "label": "Samsung A57 8/128gb",
-        "value": 32900
-      },
-      {
-        "label": "Samsung A56 8/128gb",
-        "value": 25900
+        "value": 33900
       },
       {
         "label": "Samsung A35 8/128gb",
         "value": 20900
       },
-      {
-        "label": "Samsung A26 8/256gb",
-        "value": 20900
-      },
+      
       {
         "label": "Samsung A17 6/128gb",
         "value": 16900
