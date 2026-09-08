@@ -45,31 +45,31 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim Orange",
-        "value": 140900
+        "value": 142900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Blue",
-        "value": 145900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Silver",
-        "value": 145900
+        "value": 147900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Orange",
-        "value": 126900
+        "value": 128900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Blue",
-        "value": 129900
+        "value": 131900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Silver",
-        "value": 129900
+        "value": 133900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Orange",
-        "value": 107900
+        "value": 106900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Blue",
@@ -131,11 +131,11 @@
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Blue",
-        "value": 136900
+        "value": 135900
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Silver",
-        "value": 136900
+        "value": 135900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Orange",
@@ -143,7 +143,7 @@
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Blue",
-        "value": 123900
+        "value": 122900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Silver",
@@ -155,11 +155,11 @@
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Blue",
-        "value": 106900
+        "value": 105900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Silver",
-        "value": 106900
+        "value": 105900
       }
     ]
   },
@@ -172,7 +172,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 81900
+        "value": 82900
       }
     ]
   },
@@ -181,11 +181,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 81900
+        "value": 82900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 81900
+        "value": 82900
       }
     ]
   },
@@ -335,11 +335,11 @@
     "options": [
       {
         "label": "iPad Air 11″ M4 128gb Wi-Fi",
-        "value": 67900
+        "value": 69900
       },
       {
         "label": "iPad Air 11″ M4 256gb Wi-Fi",
-        "value": 81900
+        "value": 82900
       }
     ]
   },
@@ -357,11 +357,11 @@
     "options": [
       {
         "label": "iPad 11 2025 256gb Wi-Fi",
-        "value": 53900
+        "value": 54900
       },
       {
         "label": "iPad 11 2025 128gb Wi-Fi",
-        "value": 43900
+        "value": 44900
       }
 
     ]
@@ -489,24 +489,15 @@
     "options": [
       {
         "label": "Samsung A57 8/256gb",
-        "value": 36900
+        "value": 37900
       },
       {
         "label": "Samsung A57 8/128gb",
-        "value": 32900
+        "value": 33900
       },
       {
         "label": "Samsung A35 8/128gb",
         "value": 20900
-      },
-      
-      {
-        "label": "Samsung A17 6/128gb",
-        "value": 18900
-      },
-      {
-        "label": "Samsung A17 4/128gb",
-        "value": 16900
       },
       {
         "label": "Samsung A07 6/128gb",
@@ -555,11 +546,11 @@
       },
       {
         "label": "Sony PlayStation 5 Slim",
-        "value": 69900
+        "value": 74900
       },
       {
         "label": "Sony PlayStation 5 Digital",
-        "value": 63900
+        "value": 67900
       },
       {
         "label": "Геймпад DualSense",
