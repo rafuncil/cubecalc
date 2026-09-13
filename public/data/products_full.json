@@ -172,7 +172,7 @@
       },
       {
         "label": "iPhone Air 256gb",
-        "value": 86900
+        "value": 89900
       }
     ]
   },
@@ -181,11 +181,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 86900
+        "value": 89900
       },
       {
         "label": "iPhone 17 256gb E-sim",
-        "value": 86900
+        "value": 89900
       }
     ]
   },
@@ -216,11 +216,11 @@
     "options": [
       {
         "label": "iPhone 15 256gb",
-        "value": 69900
+        "value": 65900
       },
       {
         "label": "iPhone 15 128gb",
-        "value": 59900
+        "value": 60900
       }
     ]
   },
@@ -230,7 +230,7 @@
     "options": [
       {
         "label": "iMac 24″ на процессоре M4",
-        "value": 167900
+        "value": 175900
       }
     ]
   },
@@ -239,7 +239,7 @@
     "options": [
       {
         "label": "MacBook Pro 14″ M5 24/1TB",
-        "value": 209900
+        "value": 211900
       },
       {
         "label": "MacBook Pro 14″ M5 Pro 24/1TB",
@@ -247,19 +247,19 @@
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 164900
+        "value": 167900
       },
       {
         "label": "MacBook Air 13″ M5 16/512gb",
-        "value": 141900
+        "value": 145900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 71900
+        "value": 68900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 81900
+        "value": 80900
       }
     ]
   },
@@ -268,27 +268,27 @@
     "options": [
       {
         "label": "iPad Pro 11 2025 M5 1TB Cellular",
-        "value": 171900
+        "value": 166900
       },
       {
         "label": "iPad Pro 11 2025 M5 1TB Wi-Fi",
-        "value": 161900
+        "value": 159900
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Cellular",
-        "value": 142900
+        "value": 155900
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Wi-Fi",
-        "value": 124900
+        "value": 129900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Cellular",
-        "value": 117900
+        "value": 118900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Wi-Fi",
-        "value": 107900
+        "value": 108900
       },
       {
         "label": "iPad Pro 13 2025 M5 1TB Cellular",
@@ -296,23 +296,23 @@
       },
       {
         "label": "iPad Pro 13 2025 M5 1TB Wi-Fi",
-        "value": 162900
+        "value": 159900
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Cellular",
-        "value": 152900
+        "value": 150900
       },
       {
         "label": "iPad Pro 13 2025 M5 512gb Wi-Fi",
-        "value": 144900
+        "value": 143900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Cellular",
-        "value": 132900
+        "value": 130900
       },
       {
         "label": "iPad Pro 13 2025 M5 256gb Wi-Fi",
-        "value": 124900
+        "value": 128900
       }
 
     ]
@@ -322,11 +322,11 @@
     "options": [
       {
         "label": "iPad Air 11″ M4 128gb Wi-Fi",
-        "value": 74900
+        "value": 69900
       },
       {
         "label": "iPad Air 11″ M4 256gb Wi-Fi",
-        "value": 83900
+        "value": 82900
       }
     ]
   },
@@ -366,7 +366,7 @@
       },
       {
         "label": "Apple Pencil USB-C",
-        "value": 9900
+        "value": 8900
       }
     ]
   },  
@@ -483,12 +483,12 @@
         "value": 33900
       },
       {
-        "label": "Samsung A35 8/128gb",
-        "value": 20900
+        "label": "Samsung A37 8/128gb",
+        "value": 28900
       },
       {
-        "label": "Samsung A07 6/128gb",
-        "value": 12900
+        "label": "Samsung A35 8/128gb",
+        "value": 20900
       }
     ]
   },
@@ -498,28 +498,6 @@
       {
         "label": "Realmi 11 8/256gb",
         "value": 11900
-      }
-    ]
-  },
-  {
-    "label": "Poco",
-    "options": [
-      {
-        "label": "Poco F4 6/128gb",
-        "value": 16900
-      },
-      {
-        "label": "Poco X5 Pro 6/128gb",
-        "value": 18900
-      }
-    ]
-  },
-  {
-    "label": "Redmi",
-    "options": [
-      {
-        "label": "Redmi 15С 8/256gb",
-        "value": 12900
       }
     ]
   },
