@@ -4,63 +4,67 @@
     "options": [
       {
         "label": "iPhone 18 Pro Max 2TB sim Black",
-        "value": 335900
+        "value": 323900
+      },
+      {
+        "label": "iPhone 18 Pro Max 2TB sim Burgundy",
+        "value": 323900
       },
       {
         "label": "iPhone 18 Pro Max 2TB sim Glacier",
-        "value": 375900
+        "value": 279900
       },
       {
         "label": "iPhone 18 Pro Max 2TB sim Silver",
-        "value": 377900
+        "value": 287900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Black",
-        "value": 265900
+        "value": 228900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Burgundy",
-        "value": 264900
+        "value": 258900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Glacier",
-        "value": 317900
+        "value": 229900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Silver",
-        "value": 317900
+        "value": 231900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Black",
-        "value": 209900
+        "value": 181900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Burgundy",
-        "value": 213900
+        "value": 189900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Glacier",
-        "value": 209900
+        "value": 179900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Silver",
-        "value": 213900
+        "value": 174900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Black",
-        "value": 187900
+        "value": 169900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Burgundy",
-        "value": 208900
+        "value": 175900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Glacier",
-        "value": 187900
+        "value": 168900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Silver",
-        "value": 228900
+        "value": 161900
       }
     ]
   },
@@ -69,63 +73,67 @@
     "options": [
       {
         "label": "iPhone 18 Pro 2TB sim Black",
-        "value": 341900
+        "value": 301900
       },
       {
         "label": "iPhone 18 Pro 2TB sim Burgundy",
-        "value": 341900
+        "value": 301900
       },
       {
         "label": "iPhone 18 Pro 2TB sim Glacier",
-        "value": 341900
+        "value": 301900
       },
       {
         "label": "iPhone 18 Pro 2TB sim Silver",
-        "value": 341900
+        "value": 301900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Black",
-        "value": 283900
+        "value": 227900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Burgundy",
-        "value": 273900
+        "value": 228900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Glacier",
-        "value": 251900
+        "value": 226900
+      },
+      {
+        "label": "iPhone 18 Pro 1TB sim Silver",
+        "value": 226900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Black",
-        "value": 192900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Burgundy",
-        "value": 192900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Glacier",
-        "value": 192900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Silver",
-        "value": 187900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Black",
-        "value": 173900
+        "value": 141900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Burgundy",
-        "value": 154900
+        "value": 148900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Glacier",
-        "value": 177900
+        "value": 139900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Silver",
-        "value": 172900
+        "value": 139900
       }
     ]
   },
@@ -134,59 +142,63 @@
     "options": [
       {
         "label": "iPhone 18 Pro Max 2TB E-sim Black",
-        "value": 317900
+        "value": 292900
       },
       {
+        "label": "iPhone 18 Pro Max 2TB E-sim Burgundy",
+        "value": 293900
+      },{
         "label": "iPhone 18 Pro Max 2TB E-sim Glacier",
-        "value": 311900
+        "value": 288900
+      },
+      {
+        "label": "iPhone 18 Pro Max 2TB E-sim Silver",
+        "value": 295900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Black",
-        "value": 221900
+        "value": 208900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Burgundy",
-        "value": 231900
+        "value": 233900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Glacier",
-        "value": 221900
+        "value": 211900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Silver",
-        "value": 235900
+        "value": 208900
       },
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Black",
-        "value": 185900
+        "value": 172900
       },
-      {
-        "label": "iPhone 18 Pro Max 512gb E-sim Burgundy",
-        "value": 186900
-      },
+
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Glacier",
-        "value": 185900
+        "value": 174900
       },
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Silver",
-        "value": 185900
+        "value": 171900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Black",
-        "value": 173900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Burgundy",
-        "value": 181900
+        "value": 165900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Glacier",
-        "value": 175900
+        "value": 162900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Silver",
-        "value": 179900
+        "value": 163900
       }
     ]
   },
@@ -195,55 +207,64 @@
     "options": [
       {
         "label": "iPhone 18 Pro 2TB E-sim Black",
-        "value": 275900
+        "value": 267900
       },
       {
         "label": "iPhone 18 Pro 2TB E-sim Burgundy",
-        "value": 275900
+        "value": 267900
       },
       {
         "label": "iPhone 18 Pro 2TB E-sim Glacier",
-        "value": 277900
+        "value": 269900
       },
       {
         "label": "iPhone 18 Pro 2TB E-sim Silver",
-        "value": 275900
+        "value": 267900
       },
       {
         "label": "iPhone 18 Pro 1TB E-sim Black",
-        "value": 217900
-      },
-      {
-        "label": "iPhone 18 Pro 1TB E-sim Burgundy",
-        "value": 216900
+        "value": 205900
       },
       {
         "label": "iPhone 18 Pro 1TB E-sim Glacier",
-        "value": 218900
+        "value": 203900
+      },
+      {
+        "label": "iPhone 18 Pro 1TB E-sim Silver",
+        "value": 205900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Black",
-        "value": 195900
+        "value": 163900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Burgundy",
-        "value": 195900
+        "value": 173900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Glacier",
-        "value": 181900
+        "value": 171900
+      },
+      {
+        "label": "iPhone 18 Pro 512gb E-sim Silver",
+        "value": 171900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Black",
-        "value": 154900
+        "value": 137900
+      },
+      {
+
+        "label": "iPhone 18 Pro 256gb E-sim Burgundy",
+        "value": 139900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Glacier",
-        "value": 154900
+        "value": 137900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Silver",
-        "value": 154900
+        "value": 132900
       }
     ]
   },
