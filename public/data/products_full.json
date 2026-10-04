@@ -3,36 +3,20 @@
     "label": "iPhone 18 Pro Max Версии sim",
     "options": [
       {
-        "label": "iPhone 18 Pro Max 2TB sim Black",
-        "value": 323900
-      },
-      {
-        "label": "iPhone 18 Pro Max 2TB sim Burgundy",
-        "value": 323900
-      },
-      {
-        "label": "iPhone 18 Pro Max 2TB sim Glacier",
-        "value": 279900
-      },
-      {
-        "label": "iPhone 18 Pro Max 2TB sim Silver",
-        "value": 287900
-      },
-      {
         "label": "iPhone 18 Pro Max 1TB sim Black",
-        "value": 228900
+        "value": 204900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Burgundy",
-        "value": 258900
+        "value": 220900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Glacier",
-        "value": 229900
+        "value": 201900
       },
       {
         "label": "iPhone 18 Pro Max 1TB sim Silver",
-        "value": 231900
+        "value": 201900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Black",
@@ -40,7 +24,7 @@
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Burgundy",
-        "value": 189900
+        "value": 182900
       },
       {
         "label": "iPhone 18 Pro Max 512gb sim Glacier",
@@ -56,15 +40,15 @@
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Burgundy",
-        "value": 175900
+        "value": 156900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Glacier",
-        "value": 168900
+        "value": 150900
       },
       {
         "label": "iPhone 18 Pro Max 256gb sim Silver",
-        "value": 161900
+        "value": 141900
       }
     ]
   },
@@ -72,68 +56,52 @@
     "label": "iPhone 18 Pro Версии sim",
     "options": [
       {
-        "label": "iPhone 18 Pro 2TB sim Black",
-        "value": 301900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB sim Burgundy",
-        "value": 301900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB sim Glacier",
-        "value": 301900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB sim Silver",
-        "value": 301900
-      },
-      {
         "label": "iPhone 18 Pro 1TB sim Black",
-        "value": 227900
+        "value": 204900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Burgundy",
-        "value": 228900
+        "value": 209900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Glacier",
-        "value": 226900
+        "value": 209900
       },
       {
         "label": "iPhone 18 Pro 1TB sim Silver",
-        "value": 226900
+        "value": 202900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Black",
-        "value": 165900
+        "value": 151900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Burgundy",
-        "value": 165900
+        "value": 158900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Glacier",
-        "value": 165900
+        "value": 158900
       },
       {
         "label": "iPhone 18 Pro 512gb sim Silver",
-        "value": 165900
+        "value": 153900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Black",
-        "value": 141900
+        "value": 129900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Burgundy",
-        "value": 148900
+        "value": 138900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Glacier",
-        "value": 139900
+        "value": 130900
       },
       {
         "label": "iPhone 18 Pro 256gb sim Silver",
-        "value": 139900
+        "value": 127900
       }
     ]
   },
@@ -141,64 +109,52 @@
     "label": "iPhone 18 Pro Max Версии E-sim",
     "options": [
       {
-        "label": "iPhone 18 Pro Max 2TB E-sim Black",
-        "value": 292900
-      },
-      {
-        "label": "iPhone 18 Pro Max 2TB E-sim Burgundy",
-        "value": 293900
-      },{
-        "label": "iPhone 18 Pro Max 2TB E-sim Glacier",
-        "value": 288900
-      },
-      {
-        "label": "iPhone 18 Pro Max 2TB E-sim Silver",
-        "value": 295900
-      },
-      {
         "label": "iPhone 18 Pro Max 1TB E-sim Black",
-        "value": 208900
+        "value": 193900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Burgundy",
-        "value": 233900
+        "value": 209900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Glacier",
-        "value": 211900
+        "value": 189900
       },
       {
         "label": "iPhone 18 Pro Max 1TB E-sim Silver",
-        "value": 208900
+        "value": 193900
       },
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Black",
-        "value": 172900
+        "value": 151900
       },
-
+      {
+        "label": "iPhone 18 Pro Max 512gb E-sim Burgundy",
+        "value": 167900
+      },
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Glacier",
-        "value": 174900
+        "value": 151900
       },
       {
         "label": "iPhone 18 Pro Max 512gb E-sim Silver",
-        "value": 171900
+        "value": 157900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Black",
-        "value": 165900
+        "value": 131900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Burgundy",
-        "value": 165900
+        "value": 144900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Glacier",
-        "value": 162900
+        "value": 132900
       },
       {
         "label": "iPhone 18 Pro Max 256gb E-sim Silver",
-        "value": 163900
+        "value": 132900
       }
     ]
   },
@@ -206,65 +162,53 @@
     "label": "iPhone 18 Pro Версии E-sim",
     "options": [
       {
-        "label": "iPhone 18 Pro 2TB E-sim Black",
-        "value": 267900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB E-sim Burgundy",
-        "value": 267900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB E-sim Glacier",
-        "value": 269900
-      },
-      {
-        "label": "iPhone 18 Pro 2TB E-sim Silver",
-        "value": 267900
-      },
-      {
         "label": "iPhone 18 Pro 1TB E-sim Black",
-        "value": 205900
+        "value": 181900
+      },
+      {
+        "label": "iPhone 18 Pro 1TB E-sim Burgundy",
+        "value": 189900
       },
       {
         "label": "iPhone 18 Pro 1TB E-sim Glacier",
-        "value": 203900
+        "value": 183900
       },
       {
         "label": "iPhone 18 Pro 1TB E-sim Silver",
-        "value": 205900
+        "value": 182900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Black",
-        "value": 163900
+        "value": 144900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Burgundy",
-        "value": 173900
+        "value": 146900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Glacier",
-        "value": 171900
+        "value": 153900
       },
       {
         "label": "iPhone 18 Pro 512gb E-sim Silver",
-        "value": 171900
+        "value": 152900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Black",
-        "value": 137900
+        "value": 118900
       },
       {
 
         "label": "iPhone 18 Pro 256gb E-sim Burgundy",
-        "value": 139900
+        "value": 123900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Glacier",
-        "value": 137900
+        "value": 116900
       },
       {
         "label": "iPhone 18 Pro 256gb E-sim Silver",
-        "value": 132900
+        "value": 116900
       }
     ]
   },
@@ -273,23 +217,23 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 2TB sim Orange",
-        "value": 176900
-      },
-      {
-        "label": "iPhone 17 Pro Max 2TB sim Blue",
-        "value": 172900
-      },
-      {
-        "label": "iPhone 17 Pro Max 2TB sim Silver",
-        "value": 185900
-      },
-      {
-        "label": "iPhone 17 Pro Max 1TB sim Orange",
         "value": 168900
       },
       {
+        "label": "iPhone 17 Pro Max 2TB sim Blue",
+        "value": 175900
+      },
+      {
+        "label": "iPhone 17 Pro Max 2TB sim Silver",
+        "value": 179900
+      },
+      {
+        "label": "iPhone 17 Pro Max 1TB sim Orange",
+        "value": 166900
+      },
+      {
         "label": "iPhone 17 Pro Max 1TB sim Blue",
-        "value": 169900
+        "value": 168900
       },
       {
         "label": "iPhone 17 Pro Max 1TB sim Silver",
@@ -297,23 +241,23 @@
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim Orange",
-        "value": 137900
+        "value": 133900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim Blue",
-        "value": 139900
+        "value": 136900
       },
       {
         "label": "iPhone 17 Pro Max 512gb sim Silver",
-        "value": 145900
+        "value": 143900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim Orange",
-        "value": 116900
+        "value": 114900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim Blue",
-        "value": 119900
+        "value": 114900
       },
       {
         "label": "iPhone 17 Pro Max 256gb sim Silver",
@@ -326,39 +270,39 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB sim Orange",
-        "value": 144900
+        "value": 141900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Blue",
-        "value": 149900
+        "value": 150900
       },
       {
         "label": "iPhone 17 Pro 1TB sim Silver",
-        "value": 154900
+        "value": 153900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Orange",
-        "value": 126900
+        "value": 124900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Blue",
-        "value": 131900
+        "value": 130900
       },
       {
         "label": "iPhone 17 Pro 512gb sim Silver",
-        "value": 131900
+        "value": 129900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Orange",
-        "value": 107900
+        "value": 105900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Blue",
-        "value": 108900
+        "value": 107900
       },
       {
         "label": "iPhone 17 Pro 256gb sim Silver",
-        "value": 110900
+        "value": 111900
       }
     ]
   },
@@ -367,51 +311,51 @@
     "options": [
       {
         "label": "iPhone 17 Pro Max 2TB E-sim Orange",
-        "value": 155900
+        "value": 148900
       },
       {
         "label": "iPhone 17 Pro Max 2TB E-sim Blue",
-        "value": 155900
+        "value": 149900
       },
       {
         "label": "iPhone 17 Pro Max 2TB E-sim Silver",
-        "value": 171900
+        "value": 167900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Orange",
-        "value": 144900
+        "value": 140900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Blue",
-        "value": 144900
+        "value": 141900
       },
       {
         "label": "iPhone 17 Pro Max 1TB E-sim Silver",
-        "value": 154900
+        "value": 150900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Orange",
-        "value": 125900
+        "value": 123900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Blue",
-        "value": 128900
+        "value": 125900
       },
       {
         "label": "iPhone 17 Pro Max 512gb E-sim Silver",
-        "value": 135900
+        "value": 128900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Orange",
-        "value": 109900
+        "value": 108900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Blue",
-        "value": 109900
+        "value": 108900
       },
       {
         "label": "iPhone 17 Pro Max 256gb E-sim Silver",
-        "value": 112900
+        "value": 109900
       }
     ]
   },
@@ -420,39 +364,39 @@
     "options": [
       {
         "label": "iPhone 17 Pro 1TB E-sim Orange",
-        "value": 129900
+        "value": 120900
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Blue",
-        "value": 134900
+        "value": 133900
       },
       {
         "label": "iPhone 17 Pro 1TB E-sim Silver",
-        "value": 142900
+        "value": 141900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Orange",
-        "value": 117900
+        "value": 114900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Blue",
-        "value": 124900
+        "value": 122900
       },
       {
         "label": "iPhone 17 Pro 512gb E-sim Silver",
-        "value": 124900
+        "value": 127900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Orange",
-        "value": 103900
+        "value": 102900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Blue",
-        "value": 104900
+        "value": 102900
       },
       {
         "label": "iPhone 17 Pro 256gb E-sim Silver",
-        "value": 104900
+        "value": 102900
       }
     ]
   },
@@ -461,7 +405,7 @@
     "options": [
       {
         "label": "iPhone Air 512gb",
-        "value": 91900
+        "value": 89900
       },
       {
         "label": "iPhone Air 256gb",
@@ -474,11 +418,11 @@
     "options": [
       {
         "label": "iPhone 17 256gb",
-        "value": 86900
+        "value": 84900
       },
       {
         "label": "iPhone 17 512gb",
-        "value": 85900
+        "value": 96900
       }
     ]
   },
@@ -514,7 +458,7 @@
     "options": [
       {
         "label": "iMac 24″ на процессоре M4",
-        "value": 175900
+        "value": 173900
       }
     ]
   },
@@ -523,7 +467,7 @@
     "options": [
       {
         "label": "MacBook Pro 14″ M5 24/1TB",
-        "value": 209900
+        "value": 208900
       },
       {
         "label": "MacBook Pro 14″ M5 Pro 24/1TB",
@@ -531,19 +475,19 @@
       },
       {
         "label": "MacBook Air 15″ M5 16/512gb",
-        "value": 155900
+        "value": 144900
       },
       {
         "label": "MacBook Air 13″ M5 16/512gb",
-        "value": 136900
+        "value": 126900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/256gb",
-        "value": 68900
+        "value": 74900
       },
       {
         "label": "MacBook Neo 13.6″ A18Pro 8/512gb",
-        "value": 78900
+        "value": 84900
       }
     ]
   },
@@ -552,7 +496,7 @@
     "options": [
       {
         "label": "iPad Pro 11 2025 M5 1TB Cellular",
-        "value": 167900
+        "value": 168900
       },
       {
         "label": "iPad Pro 11 2025 M5 1TB Wi-Fi",
@@ -560,11 +504,11 @@
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Cellular",
-        "value": 155900
+        "value": 153900
       },
       {
         "label": "iPad Pro 11 2025 M5 512gb Wi-Fi",
-        "value": 131900
+        "value": 137900
       },
       {
         "label": "iPad Pro 11 2025 M5 256gb Cellular",
@@ -606,11 +550,11 @@
     "options": [
       {
         "label": "iPad Air 11″ M4 128gb Wi-Fi",
-        "value": 69900
+        "value": 68900
       },
       {
         "label": "iPad Air 11″ M4 256gb Wi-Fi",
-        "value": 81900
+        "value": 79900
       }
     ]
   },
@@ -642,7 +586,7 @@
     "options": [
       {
         "label": "Apple Magic Mouse 3",
-        "value": 9900
+        "value": 8900
       },
       {
         "label": "Apple Pencil Pro",
@@ -659,7 +603,11 @@
     "options": [
       {
         "label": "Apple Watch Ultra 3 49mm Black",
-        "value": 67900
+        "value": 65900
+      },
+      {
+        "label": "Apple Watch 12 46mm",
+        "value": 47900
       },
       {
         "label": "Apple Watch 11 46mm",
@@ -675,11 +623,11 @@
       },
       {
         "label": "Apple Watch SE 44mm 2025",
-        "value": 26900
+        "value": 27900
       },
       {
         "label": "Apple Watch SE 40mm 2025",
-        "value": 28900
+        "value": 25900
       }
     ]
   },
@@ -688,23 +636,31 @@
     "options": [
       {
         "label": "AirPods Max 2 2026",
-        "value": 48900
+        "value": 47900
       },
       {
         "label": "AirPods Max 2024",
-        "value": 42900
+        "value": 41900
+      },
+      {
+        "label": "AirPods 5 MagSafe",
+        "value": 21900
+      },
+      {
+        "label": "AirPods 5",
+        "value": 18900
       },
       {
         "label": "AirPods 4 ANC",
-        "value": 16900
+        "value": 15900
       },
       {
         "label": "AirPods 4",
-        "value": 12900
+        "value": 13900
       },
       {
         "label": "AirPods Pro 3",
-        "value": 20900
+        "value": 21900
       }
     ]
   },
@@ -726,11 +682,11 @@
     "options": [
       {
         "label": "Samsung S26 Ultra 16/1TB",
-        "value": 117900
+        "value": 127900
       },
       {
         "label": "Samsung S26 Ultra 12/512gb",
-        "value": 99900
+        "value": 100900
       },
       {
         "label": "Samsung S26 Ultra 12/256gb",
@@ -743,14 +699,6 @@
       {
         "label": "Samsung S26 12/256gb",
         "value": 69900
-      },
-      {
-        "label": "Samsung S26 Plus 12/512gb",
-        "value": 87900
-      },
-      {
-        "label": "Samsung S26 Plus 12/256gb",
-        "value": 77900
       }
     ]
   },
@@ -774,15 +722,15 @@
     "options": [
       {
         "label": "Sony PlayStation 5 Pro 2TB",
-        "value": 115900
+        "value": 127900
       },
       {
         "label": "Sony PlayStation 5 Slim",
-        "value": 76900
+        "value": 78900
       },
       {
         "label": "Sony PlayStation 5 Digital",
-        "value": 67900
+        "value": 71900
       },
       {
         "label": "Геймпад DualSense",
@@ -795,7 +743,7 @@
     "options": [
       {
         "label": "Выпрямитель Dyson HT01",
-        "value": 32900
+        "value": 31900
       },
       {
         "label": "Стайлер Dyson HS09 Co-and a 2x",
@@ -803,11 +751,11 @@
       },
       {
         "label": "Стайлер Dyson HS08 i.d.",
-        "value": 43900
+        "value": 38900
       },
       {
         "label": "Фен Dyson HD16",
-        "value": 35900
+        "value": 30900
       }
     ]
   },
@@ -825,7 +773,7 @@
       },
       {
         "label": "Wayfarer Gen2 прозрач. 50/53",
-        "value": 38900
+        "value": 41900
       }
     ]
   }
